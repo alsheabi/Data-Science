@@ -1,0 +1,1001 @@
+,Rank,Conference,Short Name,H5-Index
+0,1,Science,,162.00
+1,2,Nucleic Acids Research,NAR,128.00
+2,3,IEEE Conference on Computer Vision and Pattern Recognition,CVPR,112.00
+3,4,IEEE Transactions on Pattern Analysis and Machine Intelligence,TPAMI,101.00
+4,5,NeuroImage,NeuroImage,99.00
+5,6,IEEE Transactions on Industrial Electronics,TIE,80.00
+6,7,Bioinformatics,Bioinformatics,79.00
+7,8,IEEE Communications Magazine,ICM,74.00
+8,9,IEEE Transactions on Signal Processing,TSP,73.00
+9,10,ACM Conference on Human Factors in Computing Systems,CHI,71.00
+10,11,IACR Cryptology ePrint Archive,,71.00
+11,12,IEEE Transactions on Image Processing,TIP,69.00
+12,13,Automatica,Automatica,69.00
+13,14,IEEE International Conference on Computer Communications,INFOCOM,69.00
+14,15,Communications of the ACM,Commun. ACM,69.00
+15,16,Transactions on Automatic Control,TAC,67.00
+16,17,International World Wide Web Conferences,WWW,66.00
+17,18,Proceedings of the IEEE,Proc. IEEE,64.00
+18,19,Information Sciences,Inf. Sci.,62.00
+19,20,IEEE Transactions on Wireless Communications,TWC,61.00
+20,21,Proceedings of The Vldb Endowment,PVLDB,61.00
+21,22,PLOS Computational Biology,,61.00
+22,23,ACM Transactions on Graphics,TOG,61.00
+23,24,IEEE Transactions on Information Theory,TIT,59.00
+24,25,Expert Systems with Applications,Expert Syst. Appl.,59.00
+25,26,European Journal of Operational Research,EJOR,59.00
+26,27,BMC Bioinformatics,,59.00
+27,28,BMC Genomics,,59.00
+28,29,International Journal of Computer Vision,IJCV,58.00
+29,30,IEEE International Conference on Robotics and Automation,ICRA,58.00
+30,31,International Conference on Computer Vision,ICCV,58.00
+31,32,IEEE Communications Surveys and Tutorials,COMSUR,58.00
+32,33,IEEE Transactions on Vehicular Technology,TVT,57.00
+33,34,ACM Knowledge Discovery and Data Mining,KDD,56.00
+34,35,International Conference on Machine Learning,ICML,56.00
+35,36,IEEE/ACM Transactions on Networking,TON,55.00
+36,37,IEEE Transactions on Parallel and Distributed Systems,TPDS,55.00
+37,38,Transactions on Geoscience and Remote Sensing,TGARS,55.00
+38,39,ACM SIGMOD Conference,SIGMOD,54.00
+39,40,IEEE Transactions on Smart Grid,TSG,54.00
+40,41,IEEE Transactions on Medical Imaging,T-MI,53.00
+41,42,IEEE Transactions on Knowledge and Data Engineering,TKDE,53.00
+42,43,IEEE Transactions on Mobile Computing,TMC,53.00
+43,44,Computers & Education,C&E,52.00
+44,45,Management Science,MS,52.00
+45,46,Symposium on Network System Design and Implementation,NSDI,52.00
+46,47,Computers & Mathematics with Applications,CMA,51.00
+47,48,IEEE Journal of Selected Areas in Communications,JSAC,51.00
+48,49,Annual Conference on Neural Information Processing Systems,NIPS,51.00
+49,50,Journal of Cognitive Neuroscience,JOCN,51.00
+50,51,ACM International Conference on Web Search and Data Mining,WSDM,50.00
+51,52,"ACM International Conference on the applications, technologies, architectures, and protocols for computer communication",SIGCOMM,49.00
+52,53,IEEE Symposiumon Security and Privacy,S&P,49.00
+53,54,International Conference on Weblogs and Social Media,ICWSM,49.00
+54,55,Journal of Machine Learning Research,JMLR,49.00
+55,56,Applied Soft Computing,ASC,49.00
+56,57,Journal of Solid-State Circuits,JSSC,49.00
+57,58,MIS Quarterly,,48.00
+58,59,Organization Science,OS,48.00
+59,60,Annual Meeting of the Association for Computational Linguistics,ACL,48.00
+60,61,IEEE Transactions on Software Engineering,ITSE,48.00
+61,62,"IEEE Transactions on Systems, Man, and Cybernetics, Part B",IEEE SMC,48.00
+62,63,International Conference on Research an Development in Information Retrieval,SIGIR,47.00
+63,64,International Journal of Robotics Research,IJRR,47.00
+64,65,Journal of Computational Physics,JCP,47.00
+65,66,Computers in Human Behavior,COMPUT HUM BEHAV,46.00
+66,67,IEEE Transactions on Communications,TOC,46.00
+67,68,"IEEE Transactions on Audio, Speech, and Language Processing",TASLP,46.00
+68,69,IEEE Transactions on Visualization and Computer Graphics,TVCG,46.00
+69,70,Pattern Recognition,,45.00
+70,71,IEEE Transactions on Robotics,TR,45.00
+71,72,IEEE Transactions on Neural Networks,TNN,45.00
+72,73,"IEEE International Conference on Acoustics, Speech and SP",ICASSP,45.00
+73,74,Conference on Empirical Methods in Natural Language Processing,EMNLP,45.00
+74,75,IEEE Transactions on Industrial Informatics,IEEE T IND INFORM,45.00
+75,76,IEEE Transactions on Biomedical Engineering,ITBE,45.00
+76,77,ACM Conference on Computer and Communications Security,CCS,44.00
+77,78,AAAI Conference on Artificial Intelligence,AAAI,44.00
+78,79,IEEE Transactions on Fuzzy Systems,TFS,44.00
+79,80,Journal of Selected Topics in Signal Processing,J-STSP,44.00
+80,81,Computers & Operations Research,Computers & OR,44.00
+81,82,Decision Support Systems,DSS,43.00
+82,83,IEEE Transactions on Information Forensics and Security,TIFS,43.00
+83,84,International Conference on Software Engineering,ICSE,43.00
+84,85,Future Generation Computer Systems,FGCS,43.00
+85,86,Journal of the American Society for Information Science and Technology,JASIST,42.00
+86,87,IEEE Transactions on Circuits and Systems,ITCS,42.00
+87,88,Information Systems Research,ISR,41.00
+88,89,Internet Measurement Conference,IMC,41.00
+89,90,IEEE Transactions on Intelligent Transportation Systems,TITS,41.00
+90,91,Medical Image Analysis,,41.00
+91,92,International Solid-State Circuits Conference,ISSCC,41.00
+92,93,Usenix Security Symposium,USENIX Security,41.00
+93,94,IEEE CLOUD,,41.00
+94,95,Computer Graphics Forum,,41.00
+95,96,IEEE Transactions on Control Systems Technology,TCST,41.00
+96,97,Operations Research,OR,40.00
+97,98,Applied Mathematics and Computation,AMC,40.00
+98,99,IEEE Transactions on Multimedia,TMM,40.00
+99,100,Computer Physics Communications,CPC,40.00
+100,101,Computer Supported Cooperative Work,CSCW,40.00
+101,102,Conference of the North American Chapter of the Association for Computational Linguistics Human Language Technologies,NAACL-HLT,40.00
+102,103,IEEE International Conference on Data Engineering,ICDE,40.00
+103,104,"International Conference on Mobile Systems, Applications, and Services",MobiSys,40.00
+104,105,BMC Systems Biology,BMC SYST BIOL,40.00
+105,106,IEEE Transactions on. Circuits and Systems for Video Technology,TCSVT,40.00
+106,107,IEEE Wireless Communications,IWC,40.00
+107,108,Knowledge-Based Systems,,40.00
+108,109,ACM Computing Surveys,CSUR,40.00
+109,110,Signal Processing,,39.00
+110,111,Neurocomputing,,39.00
+111,112,Computer Networks,CN,39.00
+112,113,ACM Symposium on User Interface Software and Technology,UIST,39.00
+113,114,"International Conference for High Performance Computing, Networking, Storage, and Analysis",SC,39.00
+114,115,Artificial Intelligence,,39.00
+115,116,IEEE Computer,COMPUTER,39.00
+116,117,SIAM: SIAM Journal on Computing,SICOMP,39.00
+117,118,IEEE Communications Letters,IEEE Commun. Lett.,38.00
+118,119,IEEE Transactions on Information Technology in Biomedicine,TITB,38.00
+119,120,International Conference on Intelligent RObots and Systems - IROS,IROS,38.00
+120,121,ACM International Conference on Information and Knowledge Management,CIKM,38.00
+121,122,Architectural Support for Programming Languages and Operating Systems,ASPLOS,38.00
+122,123,IEEE Transactions on Evolutionary Computation,TEVC,38.00
+123,124,Journal of Economic Theory,,38.00
+124,125,Journal of Network and Computer Applications,,38.00
+125,126,Pattern Recognition Letters,PRL,37.00
+126,127,IEEE International Conference on Communications,ICC,37.00
+127,128,EuroSys,EuroSys,37.00
+128,129,"IEEE Global Communications Conference, incorporating the Global Internet Symposium",Globecom,37.00
+129,130,ACM International Conference on Mobile Computing and Networking,MOBICOM,37.00
+130,131,ACM Multimedia,MM,37.00
+131,132,Journal of the American Medical Informatics Association,JAMIA,37.00
+132,133,IEEE Internet Computing,INTERNET,36.00
+133,134,Games and Economic Behavior,GAME ECON BEHAV,36.00
+134,135,International Symposium on Computer Architecture,ISCA,36.00
+135,136,Autonomous Agents and Multi-Agent Systems,AAMAS,36.00
+136,137,IEEE International System-on-Chip (SoC) Conference,SoCC,36.00
+137,138,International Conference on Distributed Computing Systems,ICDCS,36.00
+138,139,ACM SIGPLAN Symposium on Programming Language Design & Implementation,PLDI,36.00
+139,140,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,POPL,36.00
+140,141,ISOC Network and Distributed System Security Symposium,NDSS,36.00
+141,142,Information & Software Technology,INFSOF,36.00
+142,143,"IEEE Transactions on Systems, Man, and Cybernetics, Part C",,36.00
+143,144,IEEE Transactions on Computers,TOC,36.00
+144,145,IEEE Signal Processing Letters,,36.00
+145,146,IEEE Network,NETWORK,36.00
+146,147,Journal of Chemical Information and Modeling,J CHEM INF MODEL,36.00
+147,148,SIAM Journal on Scientific Computing,SISC,36.00
+148,149,Journal of Biomedical Informatics,JBI,35.00
+149,150,Briefings in Bioinformatics,,35.00
+150,151,Mathematical and Computer Modelling,MATH COMPUT MODELLING,35.00
+151,152,Computer Aided Verification,CAV,35.00
+152,153,Annual Conference of the International Speech Communication Association,INTERSPEECH,35.00
+153,154,International Joint Conference on Artificial Intelligence,IJCAI,35.00
+154,155,"Design, Automation & Test in Europe Conference",DATE,35.00
+155,156,IEEE Transactions on Very Large Scale Integration Systems,TVLSI,35.00
+156,157,Programs in Mathematics,,35.00
+157,158,Image and Vision Computing,,35.00
+158,159,Computer Communications,CC,34.00
+159,160,Computer Vision and Image Understanding,CVIU,34.00
+160,161,Ad hoc Networks,,34.00
+161,162,Scientometrics,Scientometrics,34.00
+162,163,High-Performance Computer Architecture,HPCA,34.00
+163,164,ECCV (1),ECCV,34.00
+164,165,International Parallel & Distributed Processing Symposium,IPDPS,34.00
+165,166,ICSE (1),ICSE,34.00
+166,167,Cluster Computing and the Grid,CCGRID,34.00
+167,168,IEEE Signal Processing Magazine,,34.00
+168,169,New Media & Society,NEW MEDIA SOC,34.00
+169,170,IEEE T. Instrumentation and Measurement,,34.00
+170,171,Journal of Computational Chemistry,JCC,33.00
+171,172,Machine Learning,,33.00
+172,173,SIAM Journal on Optimization,,33.00
+173,174,Marketing Science,Marketing,33.00
+174,175,Environmental Modelling and Software,ENVSOFT,33.00
+175,176,Design Automation Conference,DAC,33.00
+176,177,Conference on Recommender Systems,RecSys,33.00
+177,178,IEEE International Conference on DataMining,ICDM,33.00
+178,179,USENIX Symposium on Operating Systems Design and Implementations,OSDI,33.00
+179,180,Computers & Chemical Engineering,CCE,33.00
+180,181,"IEEE Transactions on Systems, Man, and Cybernetics, Part A",,33.00
+181,182,IEEE Transactions on Services Computing,TSC,33.00
+182,183,Journal of Web Semantics,J. Web Sem.,33.00
+183,184,Theoretical Computer Science,TCS,33.00
+184,185,Systems & Control Letters,SCL,32.00
+185,186,Computational Statistics & Data Analysis,CS&DA,32.00
+186,187,Neural Networks,,32.00
+187,188,Personal and Ubiquitous Computing,PUC,32.00
+188,189,Computers & Industrial Engineering,COMPUT IND ENG,32.00
+189,190,MICRO,MICRO,32.00
+190,191,,ISIT,32.00
+191,192,ACM-SIAM Symposium on Discrete Algorithms,SODA,32.00
+192,193,Conference on Decision and Control,CDC,32.00
+193,194,Language Resources and Evaluation,LREC,32.00
+194,195,International Semantic Web Conference (1),International Semantic Web Conference,32.00
+195,196,Selected Areas in Cryptography,SAC,32.00
+196,197,International Conference on Artificial Intelligence and Statistics,AISTATS,32.00
+197,198,International Conference on Image Processing,ICIP,32.00
+198,199,Journal of Computer and System Sciences,J. Comput. Syst. Sci.,32.00
+199,200,Journal of Informetrics,JOI,32.00
+200,201,SIAM Journal on Imaging Sciences,SIIMS,32.00
+201,202,Fuzzy Sets and Systems,,31.00
+202,203,Robotics and Autonomous Systems,RaS,31.00
+203,204,Cognitive Science Society Annual Conference,CogSci,31.00
+204,205,International Conference on Pattern Recognition,ICPR,31.00
+205,206,ECCV (4),ECCV,31.00
+206,207,ECCV (3),ECCV,31.00
+207,208,USENIX Annual Technical Conference,USENIX ATC,31.00
+208,209,IEEE Symposium on Foundations of Computer Science,FOCS,31.00
+209,210,Journal of Management Information Systems,JMIS,31.00
+210,211,International Journal of Medical Informatics,IJMI,31.00
+211,212,IEEE Transactions on Neural Networks and Learning Systems,TNNLS,31.00
+212,213,IEEE Transactions on Automation Science and Engineering,TASE,31.00
+213,214,IEEE Transactions on Dependable and Secure Computing,TDSC,31.00
+214,215,International Journal of Approximate Reasoning,IJAR,31.00
+215,216,Knowledge and Information Systems,KAIS,31.00
+216,217,Engineering Applications of Artificial Intelligence,EAAI,31.00
+217,218,Neural Computation,NC,30.00
+218,219,International Journal of Geographical Information Science,IJGIS,30.00
+219,220,Hawaii International Conference on System Sciences,HICSS,30.00
+220,221,High-Performance Distributed Computing,HPDC,30.00
+221,222,European Cryptology Conference,EUROCRYPT,30.00
+222,223,ECCV (2),ECCV,30.00
+223,224,ECCV (6),ECCV,30.00
+224,225,International Conference on Information Processing in Sensor Networks,IPSN,30.00
+225,226,British Machine Vision Conference,BMVC,30.00
+226,227,Conference On Embedded Networked Sensor Systems,SenSys,30.00
+227,228,Automated Software Engineering,ASE,30.00
+228,229,IEEE/ACM Transactions on Computational Biology and Bioinformatics,TCBB,30.00
+229,230,Journal of the ACM,JACM,30.00
+230,231,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,TCAD,30.00
+231,232,Journal of Parallel and Distributed Computing,JPDC,30.00
+232,233,ACM Transactions on Algorithms,TALG,30.00
+233,234,SIAM Journal on Numerical Analysis,SINUM,30.00
+234,235,Pervasive and Mobile Computing,PMC,29.00
+235,236,International Conference on Extending DB Technology,EDBT,29.00
+236,237,Annual Computer Security Applications Conference,ACSAC,29.00
+237,238,SIGSOFT FSE,,29.00
+238,239,International Conference On Cloud Computing Technology And Science,CloudCom,29.00
+239,240,ACM Symposium on Theory of Computing,STOC,29.00
+240,241,ACM International Conference on Ubiquitous Computing,UbiComp,29.00
+241,242,SIAM International Conference on Data Mining,SDM,29.00
+242,243,Reliability Engineering & System Safety,Rel. Eng. & Sys. Safety,29.00
+243,244,Journal of Computational and Applied Mathematics,JCAM,29.00
+244,245,Concurrency and Computation: Practice and Experience,CCPE,29.00
+245,246,Computer Communication Review,CCR,29.00
+246,247,Speech Communication,Speech Com,28.00
+247,248,IEEE Software,SOFTWARE,28.00
+248,249,IEEE Pervasive Computing,,28.00
+249,250,Encyclopedia of Parallel Computing,,28.00
+250,251,IEEE Wireless Communications & Networking Conference,WCNC,28.00
+251,252,Parallel Architectures and Compilation Techniques,PACT,28.00
+252,253,"Conference on Object-Oriented Programming Systems, Languages, and Applications",OOPSLA,28.00
+253,254,ACM International Conference on emerging Networking EXperiments and Technologies,CoNEXT,28.00
+254,255,ECCV (5),ECCV,28.00
+255,256,Human-Robot Interaction,HRI,28.00
+256,257,Tools and Algorithms for Construction and Analysis of Systems,TACAS,28.00
+257,258,Conference on File and Storage Technologies,FAST,28.00
+258,259,Journal of Computer Assisted Learning,JCAL,28.00
+259,260,ACM Transactions on Sensor Networks,TOSN,28.00
+260,261,Information Systems,IS,28.00
+261,262,Multimedia Tools and Applications,,28.00
+262,263,"Cyberpsychology, Behavior, and Social Networking",,28.00
+263,264,Autonomous Robots,,28.00
+264,265,SIAM Journal on Control and Optimization,SICON,28.00
+265,266,Annals of Operations Research,Annals OR,28.00
+266,267,Algorithmica,,27.00
+267,268,Computers & Geosciences,COMPUT GEOSCI,27.00
+268,269,IEEE Intelligent Systems,,27.00
+269,270,Computer Methods and Programs in Biomedicine,CMPB,27.00
+270,271,Encyclopedia of Machine Learning,,27.00
+271,272,Computers & Security,,27.00
+272,273,Social Networks,SOC NETWORKS,27.00
+273,274,Computer Speech & Language,,27.00
+274,275,VTC Spring,,27.00
+275,276,The Workshop on Hot Topics in Networks,HotNets,27.00
+276,277,Evolutionary Computation,,27.00
+277,278,Genetic and Evolutionary Computation Conference,GECCO,27.00
+278,279,"International Conference on Social Computing/Privacy, Security, Risk and Trust",SocialCom/PASSAT,27.00
+279,280,international conference on Human-computer interaction with mobile devices & services,Mobile HCI,27.00
+280,281,the international journal on very large data bases,VLDB Journal,27.00
+281,282,ACM Transactions on Intelligent Systems and Technology,ACM TIST,27.00
+282,283,Applied Mathematics Letters,Appl. Math. Lett.,27.00
+283,284,Soft Computing,,27.00
+284,285,IEEE Geoscience and Remote Sensing Letters,GRSL,27.00
+285,286,Journal of Field Robotics,JFR,27.00
+286,287,International Journal of Human-Computer Studies,IJHCS,27.00
+287,288,Journal of Software,JSW,27.00
+288,289,Computational Linguistics,CL,26.00
+289,290,Empirical Software Engineering,ESE,26.00
+290,291,Advanced Engineering Informatics,AEI,26.00
+291,292,,CDC-ECE,26.00
+292,293,Workshop on Cryptographic Hardware and Embedded Systems,CHES,26.00
+293,294,International Conference on Measurement and Modeling of Computer Systems,SIGMETRICS,26.00
+294,295,International Conference on Web Services,ICWS,26.00
+295,296,Intelligent Vehicles Symposium,IV,26.00
+296,297,International Symposium/Conference on Music Information Retrieval,ISMIR,26.00
+297,298,International Conference on Computational Linguistics,COLING,26.00
+298,299,International Journal of Applied Earth Observation and Geoinformation,IJAEOG,26.00
+299,300,IEEE Transaction on Biomedical Circuits and Systems,TBCAS,26.00
+300,301,Transactions on Affective Computing,TAC,26.00
+301,302,SIAM Journal on Matrix Analysis and Applications,SIMAX,26.00
+302,303,Journal of Multivariate Analysis,JMA,26.00
+303,304,Science of Computer Programming,Sci. Comput. Program.,26.00
+304,305,Comp. Opt. and Appl.,,26.00
+305,306,Mathematics of Computation,Math. Comput.,26.00
+306,307,,TBC,26.00
+307,308,Journal of Computational Biology,JCB,26.00
+308,309,Data Mining and Knowledge Discovery,DMKD,26.00
+309,310,Journal of Artificial Intelligence Research,JAIR,26.00
+310,311,Computer-Aided Design,CAD,25.00
+311,312,MICRO,MICRO,25.00
+312,313,Wireless Networks,,25.00
+313,314,Statistics and Computing,,25.00
+314,315,Transportation Science,,25.00
+315,316,Semantic Web,,25.00
+316,317,Information & Management,INFORM MANAGEMENT,25.00
+317,318,International Symposium on Software Testing and Analysis,ISSTA,25.00
+318,319,ACL (Short Papers),,25.00
+319,320,Mining Software Repositories,MSR,25.00
+320,321,Pervasive,,25.00
+321,322,IEEE Congress on Evolutionary Computation,CEC,25.00
+322,323,,FG,25.00
+323,324,ACM Symposium on Operating Systems Principles,SOSP,25.00
+324,325,Pervasive and Mobile Computing,PMC,25.00
+325,326,Robotics: Science and Systems,RSS,25.00
+326,327,International Symposium on Circuits and Systems,ISCAS,25.00
+327,328,Computer-Aided Civil and Infrastructure Engineering,CACAIE,25.00
+328,329,Journal of Scientific Computing,J. Sci. Comput.,25.00
+329,330,ACM Transactions on Database Systems,TODS,25.00
+330,331,Enterprise IS,,25.00
+331,332,EURASIP Journal on Advances in Signal Processing,EURASIP,25.00
+332,333,European Test Symposium,ETS,25.00
+333,334,Journal of the Association for Information Systems,JAIS,25.00
+334,335,Computers in Industry,CiI,24.00
+335,336,Discrete Applied Mathematics,DAM,24.00
+336,337,Database,,24.00
+337,338,Interacting with Computers,IWC,24.00
+338,339,INFORMS Journal on Computing,IJOC,24.00
+339,340,Information Fusion,INFFUS,24.00
+340,341,Microelectronics Reliability,,24.00
+341,342,"The IEEE International Conference on Software Testing, Verification and Validation",ICST,24.00
+342,343,Vehicular Technology Conference,VTC Fall,24.00
+343,344,International Cryptology Conference,CRYPTO,24.00
+344,345,European Conference on IR Research,ECIR,24.00
+345,346,CHI Extended Abstracts,,24.00
+346,347,International. Conference on Software Maintenance,ICSM,24.00
+347,348,PerCom Workshops,PerCom Workshops,24.00
+348,349,European Conference on Object-Oriented Programming,ECOOP,24.00
+349,350,Real-Time Systems Symposium,RTSS,24.00
+350,351,Symposium On Usable Privacy and Security,SOUPS,24.00
+351,352,International Conference on Principles of Knowledge Representation and Reasoning,KR,24.00
+352,353,IEEE Transactions on Consumer Electronics,TCE,24.00
+353,354,ACM Transactions on Software Engineering and Methodology,TOSEM,24.00
+354,355,European Journal of Information Systems,EJIS,24.00
+355,356,IEEE Transactions on Robotics,TR,24.00
+356,357,Information and Computation,Inf. Comput.,24.00
+357,358,Data & Knowledge Engineering,Data Knowl. Eng.,24.00
+358,359,Information Processing & Management,Inf. Process. Manage.,24.00
+359,360,Signal Processing: Image Communication,Sig. Proc.: Image Comm.,24.00
+360,361,Digital Signal Processing,DSP,23.00
+361,362,The Journal of Supercomputing,TJSC,23.00
+362,363,Autonomous Agents and Multi-Agent Systems,AAMAS,23.00
+363,364,Manufacturing & Service Operations Management,M&SOM),23.00
+364,365,Journal of Computational Neuroscience,JCNS,23.00
+365,366,Simulation Modelling Practice and Theory,SIMUL MODEL PRACT THEORY,23.00
+366,367,WWW (Companion Volume),,23.00
+367,368,Principles and Practice of Parallel Programming,PPoPP,23.00
+368,369,International Symposium on Mobile Ad Hoc Networking and Computing,MobiHoc,23.00
+369,370,International Conference on Supercomputing,ICS,23.00
+370,371,Code Generation and Optimization,CGO,23.00
+371,372,ACM SIGMOD Conference on Principles of DB Systems,PODS,23.00
+372,373,ICCV Workshops,,23.00
+373,374,IPDPS Workshops,,23.00
+374,375,MICCAI (3),MICCAI,23.00
+375,376,"ACM Symposium on Information, Computerand Communications Security",ASIACCS,23.00
+376,377,,FUSION,23.00
+377,378,Business Process Management,BPM,23.00
+378,379,International Conference on Innovation Database Research,CIDR,23.00
+379,380,IEEE Real-Time and Embedded Technology and Applications Symposium,,23.00
+380,381,Hydrology and Earth System Sciences,HYDROL EARTH SYST SCI,23.00
+381,382,IEEE Transactions on Computational Intelligence and AI in Games,TCIAIG,23.00
+382,383,Industrial Management and Data Systems,IMDS,23.00
+383,384,Computers in Biology and Medicine,Comp. in Bio. and Med.,23.00
+384,385,IEEE Systems Journal,IEEE SYST J,23.00
+385,386,Mathematics of Operations Research,MOR,23.00
+386,387,Software and System Modeling,SoSyM,23.00
+387,388,IEEE Security & Privacy,,23.00
+388,389,User Modeling and User-Adapted Interaction,User Model. User-Adapt. Interact.,23.00
+389,390,EURASIP Journal on Wireless Communications and Networking,EURASIP JWCN,23.00
+390,391,Journal of Cryptology,J. Cryptology,23.00
+391,392,ACM Transactions on Information and System Security,TISS,23.00
+392,393,Software: Practice and Experience,"Softw., Pract. Exper.",23.00
+393,394,Business Process Management Journal,BPMJ,23.00
+394,395,Journal of the Operational Research Society,JORS,23.00
+395,396,Machine Vision and Applications,Mach. Vis. Appl.,23.00
+396,397,The Journal of Strategic Information Systems,J. Strategic Inf. Sys.,23.00
+397,398,"Computers, Environment and Urban Systems",,23.00
+398,399,Discrete & Computational Geometry,DCG,22.00
+399,400,Journal of Intelligent and Robotic Systems,JIRS,22.00
+400,401,Telecommunication Systems,TELSYS,22.00
+401,402,Evolutionary Computation,,22.00
+402,403,Neural Computing & Applications,NCA,22.00
+403,404,Computers & Graphics,CG,22.00
+404,405,"Conference on User Modelling, Adaptation and Personalization",UMAP,22.00
+405,406,Cluster Computing,CLUSTER,22.00
+406,407,Conference of the Association for Computational Linguistics,ACL,22.00
+407,408,European Symposium on Programming,ESOP,22.00
+408,409,nternational Learning Analytics and Knowledge,LAK,22.00
+409,410,International Conference on Document Analysis and Recognition,ICDAR,22.00
+410,411,International Joint Conference on Neural Networks,IJCNN,22.00
+411,412,International Conference on Autonomic Computing,ICAC,22.00
+412,413,European Conference on Wireless Sensor Networks,EWSN,22.00
+413,414,ACM Multimedia Systems Conference Series,MMSys,22.00
+414,415,International Conference on Hybrid Systems: Computation and Control,HSCC,22.00
+415,416,Euromicro Conference on Real-Time Systems,ECRTS,22.00
+416,417,Annual International Conference on the Theory and Application of Cryptology and Information Security,ASIACRYPT,22.00
+417,418,International Conference on Multimedia and Expo,ICME,22.00
+418,419,International Journal of Bifurcation and Chaos,IJBC,22.00
+419,420,Journal of Intelligent Manufacturing,JIM,22.00
+420,421,Logical Methods in Computer Science,LMCS,22.00
+421,422,First Monday,FIRSTMONDAY,22.00
+422,423,Mobile Networks & Applications,MONET,22.00
+423,424,Medical & Biological Engineering & Computing,MBEC,22.00
+424,425,IEEE Robotics & Automation Magazine,RAM,22.00
+425,426,IET Communications,,22.00
+426,427,Computer Journal,,22.00
+427,428,Electronic Colloquium on Computational Complexity,ECCC,22.00
+428,429,ACM Transactions on Programming Languages and Systems,TOPLAS,22.00
+429,430,Journal of Global Optimization,J Gobal Optim.,22.00
+430,431,SIAM Journal on Discrete Mathematics,SIDMA,22.00
+431,432,IEEE Transactions on Learning Technologies,TLT,22.00
+432,433,Random Structures & Algorithms,,22.00
+433,434,Advances in Engineering Software,AES,21.00
+434,435,Networks,,21.00
+435,436,Parallel Computing,PARCO,21.00
+436,437,Journal of Computer Security,JCS,21.00
+437,438,Artificial Intelligence in Medicine,AIM,21.00
+438,439,Foundations of Computational Mathematics,FoCM,21.00
+439,440,Electronic Commerce Research and Applications,ECRA,21.00
+440,441,Conference on Software Maintenance and Reengineering,CSMR,21.00
+441,442,International Conference on Concurrency Theory,CONCUR,21.00
+442,443,Requirements Engineering,RE,21.00
+443,444,International Workshop on Practice and Theory in Public Key Cryptography,PKC,21.00
+444,445,International Conf on Function Programming,ICFP,21.00
+445,446,International Conference on Service Oriented Computing,ICSOC,21.00
+446,447,ACM Conference on Security and Privacy in Wireless and Mobile Networks,WiSec,21.00
+447,448,ACM International Conference on Intelligent User Interfaces,IUI,21.00
+448,449,Financial Cryptography,,21.00
+449,450,Fundamental Approaches to Software Engineering,FASE,21.00
+450,451,International Conference on Medical Image Computing and Computer Assisted Intervention,MICCAI,21.00
+451,452,International Conference on Computer-Aided Design,ICCAD,21.00
+452,453,,SmartGridComm,21.00
+453,454,International Conference on Network Protocols,ICNP,21.00
+454,455,IEEE International Symposium on Performance Analysis of Systems and Software,ISPASS,21.00
+455,456,"IEEE International Symposium on Personal, Indoor and Mobile Radio Communications",PIMRC,21.00
+456,457,The International Conference on Dependable Systems and Networks,DSN,21.00
+457,458,Asia and South Pacific Design Automation Conference,ASP-DAC,21.00
+458,459,Software Product Lines,SPLC,21.00
+459,460,International Conference on Computational Linguistics (Posters),Coling (Poster),21.00
+460,461,Journal of Biomedical Semantics,,21.00
+461,462,Journal of Computer-Mediated Communication,JCMC,21.00
+462,463,Operating Systems Review,SIGOPS,21.00
+463,464,Requirements Engineering,Requir. Eng.,21.00
+464,465,Journal of Medical Systems,J. Medical Systems,21.00
+465,466,Information Retrieval,Inf. Retr.,21.00
+466,467,SIAM J. Math. Analysis,SIAM J. Math. Analysis,21.00
+467,468,Bioinformatics [ISMB/ECCB],,21.00
+468,469,Bioinformatics [ISMB],,21.00
+469,470,Journal of Logic and Computation,,21.00
+470,471,European Journal of Combinatorics,Eur. J. Comb.,21.00
+471,472,"Journal of Combinatorial Theory, Series A","J. Comb. Theory, Ser. A",21.00
+472,473,BMC Med. Inf. & Decision Making,,21.00
+473,474,Fundamenta Informaticae,Fundam. Inform.,21.00
+474,475,Entropy,,21.00
+475,476,Journal of Universal Computer Science,J.UCS,21.00
+476,477,Computerized Medical Imaging and Graphics,Comp. Med. Imag. and Graph.,21.00
+477,478,International Journal of Systems Science,Int. J. Systems Science,21.00
+478,479,Journal of Visual Communication and Image Representation,,21.00
+479,480,Performance Evaluation,Perform. Eval.,21.00
+480,481,SIGMETRICS Performance Evaluation Review,,21.00
+481,482,Finance and Stochastics,,21.00
+482,483,International Journal of Neural Systems,Int. J. Neural Syst.,21.00
+483,484,Journal of Knowledge Management,J. Knowledge Management,21.00
+484,485,SIAM Journal on Financial Mathematics,SIFIN,21.00
+485,486,International Journal on Software Tools for Technology Transfer,STTT,21.00
+486,487,Journal of Intelligent Information Systems,Inf. Syst. J.,21.00
+487,488,IEEE Computer Graphics and Applications,CGA,20.00
+488,489,Journal of Mathematical Imaging and Vision,JMIV,20.00
+489,490,Numerical Algorithms,,20.00
+490,491,Language Resources and Evaluation,LRE,20.00
+491,492,Journal of Computer Research and Development,,20.00
+492,493,International Conference on Computational Science,ICCS,20.00
+493,494,ACM Symposium on Principles of Distributed Computing,PODC,20.00
+494,495,Advanced Information Networking and Applications,AINA,20.00
+495,496,ACM International Conference on Interactive Tabletops and Surfaces,ITS,20.00
+496,497,Conference on Information Sciences and Systems,CISS,20.00
+497,498,ACM Symposium on Parallelism in Algorithms and Architectures,SPAA,20.00
+498,499,Technical Symposium on Computer Science Education,SIGCSE,20.00
+499,500,International Symposium on Mixed and Augmented Reality,ISMAR,20.00
+500,501,IEEE International Symposium on Biomedical Imaging,ISBI,20.00
+501,502,European Semantic Web Conference,ESWC,20.00
+502,503,International Conference on Interaction Sciences,ICIS,20.00
+503,504,Conference on Empirical Methods on Natural Language Processing and Computational Natural Language Learning,EMNLP-CoNLL,20.00
+504,505,International Symposium on Recent Advancesin Intrusion Detection,RAID,20.00
+505,506,International Journal of Geographical Information Science,IJGIS,20.00
+506,507,International Conference on Future Energy Systems,e-Energy,20.00
+507,508,International Conference on Automated Planning and Scheduling,ICAPS,20.00
+508,509,European Conference on Artificial Intelligence,ECAI,20.00
+509,510,International conference on Humanoid Robots,Humanoids,20.00
+510,511,European Symposiumon Research in Computer Security,ESORICS,20.00
+511,512,Annual Conference on Computational Learning Theory,COLT,20.00
+512,513,IEEE Symposium on Computational Intelligence and Games,CIG,20.00
+513,514,ACM International Conference on Ubiquitous Computing,UbiComp,20.00
+514,515,Theoretical Informatics and Applications,ITA,20.00
+515,516,IEEE International Conference on Program Comprehension,ICPC,20.00
+516,517,Computer Security Foundations Symposium,CSF,20.00
+517,518,Tangible and Embedded Interaction,TEI,20.00
+518,519,Passive and Active Measurement Conference,PAM,20.00
+519,520,,SI3D,20.00
+520,521,Journal of Heuristics,J. Heuristics,20.00
+521,522,"ACM Transactions on Multimedia Computing, Communications and Application",TOMCCAP,20.00
+522,523,SIAM Journal of Applied Mathematics,SIAP,20.00
+523,524,ACM Transactions on Computer-Human Interaction,TOCHI,20.00
+524,525,Theory and Practice of Logic Programming,TPLP,20.00
+525,526,International Journal of Communication Systems,IJCS,20.00
+526,527,Synthese,,20.00
+527,528,International Journal of Intelligent Systems,IJIS,20.00
+528,529,IEEE Transactions on Cybernetics,TOC,20.00
+529,530,Journal of Automated Reasoning,JAR,20.00
+530,531,Signal Processing Systems,SPS,20.00
+531,532,Information Processing Letters,Inf. Process. Lett.,20.00
+532,533,IEEE Transaction on Haptics,ToH,20.00
+533,534,ACM Transactions on Embedded Computing Systems,TECS,20.00
+534,535,Computers & Electrical Engineering,CEE,20.00
+535,536,ACM Transactions on Knowledge Discovery from Data,TKDD,20.00
+536,537,Information Society,,20.00
+537,538,Discrete Mathematics,DM,19.00
+538,539,Human Factors,HUM FACTORS,19.00
+539,540,Biological Cybernetics,,19.00
+540,541,Computing in Science and Engineering,C in S&E,19.00
+541,542,Wireless Personal Communications,WIREL PERS COMMUN,19.00
+542,543,Conference on middleware,Middleware,19.00
+543,544,Information Systems Frontiers,ISF,19.00
+544,545,ACM/Eurographics Symposium on Computer Animation,SCA,19.00
+545,546,Intelligence,,19.00
+546,547,Aspect-Oriented Software Development,AOSD,19.00
+547,548,International Conference on Parallel Processing,ICPP,19.00
+548,549,"IEEE International Conference on Systems, Man, and Cybernetics",SMC,19.00
+549,550,"RSA Conference, Cryptographers' Track",CT-RSA,19.00
+550,551,Conference on Designing Interactive Systems,,19.00
+551,552,"IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",MASCOTS,19.00
+552,553,ACM/IEEE Joint Conference on Digital Libraries,JCDL,19.00
+553,554,,ICCPS,19.00
+554,555,ACM/IEEE International Symposium on Networks-on-Chip,NOCS,19.00
+555,556,Virtual Execution Environments,VEE,19.00
+556,557,European Conference on Information Systems,ECIS,19.00
+557,558,ACM/SIGDA International Symposium on Field-Programmable Gate Arrays,FPGA,19.00
+558,559,International Conference on Medical Image Computing and Computer Assisted Intervention,MICCAI,19.00
+559,560,International Symposium on Low Power Electronics and Design,ISLPED,19.00
+560,561,International Conference on Hardware/Software Codesign & System Synthesis,CODES+ISSS,19.00
+561,562,IEEE Computer Society,IEEE SCC,19.00
+562,563,ACM SIGMM International Conference on Multimedia Retrieval,ICMR,19.00
+563,564,Advanced Video and Signal Based Surveillance,AVSS,19.00
+564,565,Advances in Social Network Analysis and Mining,ASONAM,19.00
+565,566,IEEE International Conference on Data Mining Workshops,ICDM Workshops,19.00
+566,567,IEEE International Conference on Computer Communications and Networks,ICCCN,19.00
+567,568,Theory of Cryptography Conference,TCC,19.00
+568,569,IEEE Pacific Visualization Symposium,PacificVis,19.00
+569,570,Journal of Computer-Aided Molecular Design,JCAMD,19.00
+570,571,Theory of Computing Systems,,19.00
+571,572,ACM Transactions on the Web,TWEB,19.00
+572,573,International Journal for Computer Assisted Radiology and Surgery,IJCARS,19.00
+573,574,The Visual Computer,TVC,19.00
+574,575,Electronic Notes in Theoretical Computer Science,entcs,19.00
+575,576,ACM Transactions on Information Systems,TOIS,19.00
+576,577,Journal of The American Society for Information Science and Technology,JASIS,19.00
+577,578,Wireless Communications and Mobile Computing,WCWC,19.00
+578,579,IEEE Design & Test of Computers,IEEE D&ToC,19.00
+579,580,Artificial Intelligence Review,ARTIF INTELL REV,19.00
+580,581,ACM Transactions on Storage,TOS,19.00
+581,582,Journal of Grid Computing,JGC,19.00
+582,583,IEEE Transactions on Education,ToE,19.00
+583,584,Journal of Symbolic Computation,JSC,19.00
+584,585,Automated Software Engineering,ASE,19.00
+585,586,Mathematics and Computers in Simulation,,18.00
+586,587,Real-Time Systems,,18.00
+587,588,Winter Simulation Conference,WSC,18.00
+588,589,Cluster Computing,CLUSTER,18.00
+589,590,Microelectronics Journal,,18.00
+590,591,International Symposium on Empirical Software Engineering and Measurement,ESEM,18.00
+591,592,International Conference on Research in Computational Molecular Biology,RECOMB,18.00
+592,593,USENIX Workshop on Hot Topics in Cloud Computing,HotCloud,18.00
+593,594,International Static Analysis Symposium,SAS,18.00
+594,595,Virtual Reality,VR,18.00
+595,596,International Joint Conference on Biometrics,IJCB,18.00
+596,597,IEEE Symposium on Computers and Communications,ISCC,18.00
+597,598,Association for Information Systems,AMCIS,18.00
+598,599,"International Conference on Verification,Model Checking, and Abstract Interpretation",VMCAI,18.00
+599,600,Theory and Applications of Satisfiability Testing,SAT,18.00
+600,601,Journal of Computing and Information Technology,CIT,18.00
+601,602,IEEE Symposium on Logic in Computer Science,LICS,18.00
+602,603,IEEE International Semantic Web Conference,ISWC,18.00
+603,604,International Conference on Advanced Information Systems Engineering,CAiSE,18.00
+604,605,International Conference on Intelligent Virtual Agents,IVA,18.00
+605,606,Conference on Data and Applications Security,CODASPY,18.00
+606,607,International Symposium on Software Reliability Engineering,ISSRE,18.00
+607,608,European Semantic Web Conference,ESWC,18.00
+608,609,Distributed Computing in Sensor Systems,DCOSS,18.00
+609,610,International Semantic Web Conference,ISWC,18.00
+610,611,Runtime Verification,RV,18.00
+611,612,Working Conference on Reverse Engineering,WCRE,18.00
+612,613,Workshop on Applications of Computer Vision,WACV,18.00
+613,614,IEEE International Conference on Fuzzy Systems,FUZZ-IEEE,18.00
+614,615,Fast Software Encryption,FSE,18.00
+615,616,IEEE International Conference on P2P Computing,P2P,18.00
+616,617,International Conference on Semantic Systems,I-SEMANTICS,18.00
+617,618,ACM Transactions on Architecture and Code Optimization,TACO,18.00
+618,619,Optimization Methods and Software,OPTIM METHOD SOFTW,18.00
+619,620,Journal of Cheminformatics,J CHEMINFORMATICS,18.00
+620,621,International Journal on Document Analysis and Recognition,IJDAR,18.00
+621,622,Quality and Reliability Engineering International,QREI,18.00
+622,623,Applied Intelligence,Appl. Intell.,18.00
+623,624,Applied Mathematics and Computer Science,AMCS,18.00
+624,625,Journal of Digital Imaging,JDI,18.00
+625,626,Journal of Optimization Theory and Applications,JOTA,18.00
+626,627,Operations Research Letters,Oper. Res. Lett.,18.00
+627,628,Transactions in Gis,T. GIS,18.00
+628,629,ACM Transactions on Computer Systems,TOCS,18.00
+629,630,ACM Transactions on Mathematical Software,TOMS,18.00
+630,631,Technology Analysis & Strategic Management,TASM,18.00
+631,632,Journal of Scheduling,,18.00
+632,633,SIGKDD Explorations,,18.00
+633,634,The Knowledge Engineering Review,Knowledge Eng. Review,18.00
+634,635,Multiscale Modeling & Simulation,MULTISCALE MODEL SIMUL,18.00
+635,636,Brain Connectivity,,18.00
+636,637,Advances in Computational Mathematics,Adv. Comput. Math.,18.00
+637,638,Distributed Computing,DC,17.00
+638,639,Telematics and Informatics,TELE,17.00
+639,640,Computer Standards & Interfaces,CSI,17.00
+640,641,Robotica,,17.00
+641,642,Computational Intelligence,CI,17.00
+642,643,Formal Methods in System Design,FMSD,17.00
+643,644,Computer Supported Cooperative Work,CSCW,17.00
+644,645,International World Wide Web Conferences,WWW,17.00
+645,646,Information Hiding,,17.00
+646,647,Multimedia Information Retrieval,MMIR,17.00
+647,648,IEEE Transactions on Network and Service Management,TNSM,17.00
+648,649,Swarm and Evolutionary Computation,,17.00
+649,650,ACM Conference on Supporting Group Work,ASSETS,17.00
+650,651,Conference of the European Chapter of the Association for Computational Linguistics,EACL,17.00
+651,652,International Conference on Embedded Software,EMSOFT,17.00
+652,653,IEEE Workshop on Automatic Speech Recognition and Understanding,ASRU,17.00
+653,654,IEEE International Symposium on a World of Wireless Mobile and Multimedia Networks,WoWMoM,17.00
+654,655,IEEE PES Innovative Smart Grid Technologies European,ISGT Europe,17.00
+655,656,Field-Programmable Custom Computing Machines,FCCM,17.00
+656,657,IEEE International Symposium on Robot and Human Interactive Communication,RO-MAN,17.00
+657,658,"Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks",WiOpt,17.00
+658,659,Foundations of Digital Games,FDG,17.00
+659,660,Extended Semantic Web Conference,ESWC,17.00
+660,661,"International Colloquium on Automata, Languages, and Programming",ICALP,17.00
+661,662,The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,ECML/PKDD,17.00
+662,663,The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,ECML/PKDD,17.00
+663,664,International Conference on Wireless Communications and Mobile Computing,IWCMC,17.00
+664,665,International Joint Conference on Natural Language Processing,IJCNLP,17.00
+665,666,Conference on Automated Deduction/The International Joint Conference onAutomated Reasoning,CADE/IJCAR,17.00
+666,667,Emerging Technologies and Factory Automation,ETFA,17.00
+667,668,Field Programmable Logic and Applications,FPL,17.00
+668,669,International Conference on Model Driven Engineering Languages and Systems,MoDELS,17.00
+669,670,SIGMOD Record,,17.00
+670,671,International Symposium on Software Engineering for Adaptive and Self-Managing Systems,SEAMS,17.00
+671,672,ACM Symposium on Access Control Modelsand Technologies,SACMAT,17.00
+672,673,International Workshop on Mobile Computing Systems and Applications,HotMobile,17.00
+673,674,,HT,17.00
+674,675,National Forum on Quality Improvement in Health Care,IHI,17.00
+675,676,Eye Tracking Research & Application,ETRA,17.00
+676,677,Asia-Pacific Network Operations and Management Symposium,NOMS,17.00
+677,678,Distributed Event-Based Systems,DEBS,17.00
+678,679,German Conference on Artificial Intelligence,KI,17.00
+679,680,"Simulation Tools and Techniques for Communications, Networks and Systems",SimuTools,17.00
+680,681,International Conference on Parallel Processing Workshops,ICPP workshops,17.00
+681,682,International Conference on Machine Learning,ICML,17.00
+682,683,International Journal of Digital Earth,Int. J. Digital Earth,17.00
+683,684,IEEE Transactions on Autonomous Mental Development,TAMD,17.00
+684,685,Java-Informations-Tage,JIT,17.00
+685,686,Natural Computing,,17.00
+686,687,Journal of Software Maintenance,,17.00
+687,688,Journal of Applied Mathematics,,17.00
+688,689,Journal of Complexity,,17.00
+689,690,ACM Transactions on Multimedia Computing,TOMC,17.00
+690,691,"Journal of Combinatorial Theory, Series B","J. Comb. Theory, Ser. B",17.00
+691,692,"Combinatorics, Probability & Computing",CPC,17.00
+692,693,Scholarpedia,,17.00
+693,694,IEICE Transactions,,17.00
+694,695,Behaviour & Information Technology,BIT,17.00
+695,696,Data Engineering Bulletin Issues,IEEE Data Eng. Bull.,17.00
+696,697,International Journal of Human-Computer Interaction,Int. J. Hum. Comput. Interaction,17.00
+697,698,Optimization Letters,,17.00
+698,699,Journal of Information Science,JIS,17.00
+699,700,International Journal of Computer Mathematics,Int. J. Comput. Math.,17.00
+700,701,IEEE Journal of Emerging and Selected Topics in Circuits and Systems,IEEE J. Emerg. Sel. Topics Circuits Syst.,17.00
+701,702,Formal Aspects of Computing,Formal Asp. Comput.,17.00
+702,703,Software Quality Journal,SQJ,17.00
+703,704,Interactive Learning Environments,INTERACT LEARN ENVIRON,17.00
+704,705,Social Choice and Welfare,SOC CHOICE WELFARE,17.00
+705,706,FO & DM,,17.00
+706,707,Journal of Computational Science,J. Comput. Science,17.00
+707,708,IEEE Computational Intelligence Magazine,CIM,17.00
+708,709,Comp. Int. and Neurosc.,,17.00
+709,710,AI Magazine,,16.00
+710,711,IEEE MultiMedia,,16.00
+711,712,Constraints,,16.00
+712,713,Information Visualization,IVS,16.00
+713,714,Systems Engineering,SYST ENG,16.00
+714,715,Statistical Analysis and Data Mining,,16.00
+715,716,ACM Symposium on Computational Geometry,SoCG,16.00
+716,717,Quantum Information & Computation,QUANTUM INF COMPUT,16.00
+717,718,Cognitive Systems Research,,16.00
+718,719,CVPR Workshops,,16.00
+719,720,ICST Workshops,,16.00
+720,721,IEEE Workshop on Spoken Language Technology,SLT,16.00
+721,722,Quantitative Evaluation of Systems,QEST,16.00
+722,723,ICDE Workshops,,16.00
+723,724,International Symposium on Experimental Robotics,ISER,16.00
+724,725,International Symposium on Quality Electronic Design,ISQED,16.00
+725,726,International Conference on Web Engineering,ICWE,16.00
+726,727,International Conference on Database Theory,ICDT,16.00
+727,728,ACM International Conference on Multimodal Interaction,ICMI,16.00
+728,729,"International Conference on Complex, Intelligent and Software Intensive Systems",CISIS,16.00
+729,730,ACM Transactions on Applied Perception,TAP,16.00
+730,731,Mobile and Ubiquitous Multimedia,MUM,16.00
+731,732,,OM,16.00
+732,733,Interaction Design and Children,IDC,16.00
+733,734,European Conference on Computer Vision,ECCV,16.00
+734,735,ACL (System Demonstrations),,16.00
+735,736,Picture Coding Symposium,PCS,16.00
+736,737,,PervasiveHealth,16.00
+737,738,Nordic Conference on Human-Computer Interaction,NordiCHI,16.00
+738,739,,SEA,16.00
+739,740,Mass Storage Systems and Technologies,MSST,16.00
+740,741,international conference devoted to engineering usable and effective interactive computing systems,EICS,16.00
+741,742,ECML/PKDD (1),ECML/PKDD,16.00
+742,743,Annual Meeting of the Special Interest Group on Discourse and Dialogue,SIGDIAL Conference,16.00
+743,744,International Conference on Conceptual Modeling,ER,16.00
+744,745,Document Analysis Systems,DAS,16.00
+745,746,Conference on Automated Deduction/The International Joint Conference onAutomated Reasoning,CADE/IJCAR,16.00
+746,747,IEEE International Conference on Mobile Ad hoc and Sensor Systems,MASS,16.00
+747,748,International Conference on Communication Systems and Networks,COMSNETS,16.00
+748,749,Privacy Enhancing Technologies,PETS,16.00
+749,750,IEEE International Symposium on Reliable Distributed Systems,SRDS,16.00
+750,751,International Conference on Software Engineering,ICSE,16.00
+751,752,Usenix Security Symposium,USENIX Security,16.00
+752,753,Economics of Information Security,WEIS,16.00
+753,754,ACM Cloud Computing Security Workshop,CCSW,16.00
+754,755,International Workshop on Quality of Service,IWQoS,16.00
+755,756,Formal Method in Computer-Aided Design,FMCAD,16.00
+756,757,"Knowledge Acquisition, Modeling and Management",EKAW,16.00
+757,758,Allerton,,16.00
+758,759,Innovative Smart Grid Technologies Conference,ISGT,16.00
+759,760,IEEE Conference on Local Computer Networks,LCN,16.00
+760,761,International Conference on Machine Learning,ICML,16.00
+761,762,Information Processing in Medical Imaging,IPMI,16.00
+762,763,International Working Conference on Advanced User Interfaces,AVI,16.00
+763,764,International Conference on Model Transformation,ICMT,16.00
+764,765,"Parallel, Distributed and network-based processing",PDP,16.00
+765,766,ACM Transactions on Interactive Intelligent Systems,TiiS,16.00
+766,767,International Journal of Bio-Inspired Computation,IJBIC,16.00
+767,768,International Journal of Social Robotics,I. J. Social Robotics,16.00
+768,769,Computational Geometry,Comput. Geom.,16.00
+769,770,SIAM Journal on Applied Dynamical Systems,SIADS,16.00
+770,771,The Electronic Journal of Combinatorics,Electr. J. Comb.,16.00
+771,772,Biosystems,,16.00
+772,773,Information Systems and e-Business Management,Inf. Syst. E-Business Management,16.00
+773,774,International Journal of Distributed Sensor Networks,IJDSN,16.00
+774,775,Journal of Functional Programming,J. Funct. Program.,16.00
+775,776,Decision Sciences,DECISION SCI,16.00
+776,777,Journal of Networks,JNW,16.00
+777,778,Journal of Combinatorial Optimization,J. Comb. Optim.,16.00
+778,779,GeoInformatica,,16.00
+779,780,International Journal of Sensor Networks,IJSNet,16.00
+780,781,International Journal of Biomedical Imaging,Int. J. Biomedical Imaging,16.00
+781,782,International Journal of Information Technology and Decision Making,IJITDM,16.00
+782,783,Journal of Systems Architecture - Embedded Systems Design,JSA,16.00
+783,784,Software Testing Verification & Reliability,STVR,16.00
+784,785,Theoretical Computer Science,TCS,15.00
+785,786,Computer Aided Geometric Design,CAGD,15.00
+786,787,ACM SIGSOFT Software Engineering Notes,SEN,15.00
+787,788,Journal of Graph Theory,JGT,15.00
+788,789,Selected Areas in Cryptography,SAC,15.00
+789,790,Mobile Communications,,15.00
+790,791,IT Professional,,15.00
+791,792,Natural Language Engineering,NLE,15.00
+792,793,Bell Labs Technical Journal,BLTJ,15.00
+793,794,Workshop on General Purpose Processing Using GPUs,GPGPU,15.00
+794,795,High Performance Graphics,,15.00
+795,796,Security and Communication Networks,SCN,15.00
+796,797,Annual Reviews in Control,,15.00
+797,798,OTM Conferences (1),OTM Conferences,15.00
+798,799,Wearable and Implantable Body Sensor Networks,BSN,15.00
+799,800,,LDOW,15.00
+800,801,International Conference on Mobile Data Management,MDM,15.00
+801,802,AINA Workshops,,15.00
+802,803,IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks,SECON,15.00
+803,804,International Conference on Scientific and Statistical DB Management,SSDBM,15.00
+804,805,Requirements Engineering: Foundation for Software Quality,REFSQ,15.00
+805,806,"Formal Methods, World Congress",FM,15.00
+806,807,Intelligent Tutoring Systems (1),Intelligent Tutoring Systems,15.00
+807,808,Graphics Interface conference,GI,15.00
+808,809,ECCV Workshops (1),ECCV Workshops,15.00
+809,810,Artificial Intelligence and Interactive Digital Entertainment Conference,AIIDE,15.00
+810,811,IEEE Conference on Visual Analytics Science and Technology,IEEE VAST,15.00
+811,812,European conference covering all aspects of parallel and distributed processing,Euro-Par,15.00
+812,813,NASA Formal Methods,,15.00
+813,814,IEEE International Conference on Semantic Computing,ICSC,15.00
+814,815,String Processing and Information Retrieval,SPIRE,15.00
+815,816,EvoApplications (1),EvoApplications,15.00
+816,817,Trusted Computing - Challenges and Applications,TRUST,15.00
+817,818,Rough Sets and Knowledge Technology,RSKT,15.00
+818,819,International Conference on Performance Engineering,ICPE,15.00
+819,820,Description Logics,DLog,15.00
+820,821,International Geoscience and Remote Sensing Symposium,IGARSS,15.00
+821,822,Persuasive Technology,PERSUASIVE,15.00
+822,823,"International Colloquium on Automata, Languages, and Programming",ICALP,15.00
+823,824,International Green Computing Conference,IGCC,15.00
+824,825,,ACSCC,15.00
+825,826,ICDCS Workshops,,15.00
+826,827,,EDOC,15.00
+827,828,International Test Conference,ITC,15.00
+828,829,International Conference on Frontiers in Handwriting Recognition,ICFHR,15.00
+829,830,conference on Interactive Theorem Proving,ITP,15.00
+830,831,IEEE Symposium on Visual Languages and Human-Centric Computing,VL/HCC,15.00
+831,832,Abdominal Imaging,ABDOM IMAGING,15.00
+832,833,International Conference on Principles and Practice of Constraint Programming,CP,15.00
+833,834,IEEE International Symposium on Workload Characterization,IISWC,15.00
+834,835,Journal of Grid Computing,GRID,15.00
+835,836,Variability Modelling of Software-Intensive Systems,VaMoS,15.00
+836,837,Multimedia Signal Processing,MMSP,15.00
+837,838,"International Conference on availability, reliability and security",ARES,15.00
+838,839,Business Process Management Workshops,BPM workshops,15.00
+839,840,International Conference on Uncertainty in Artificial Intelligence,UAI,15.00
+840,841,IEEE Custom Integrated Circuits Conference,CICC,15.00
+841,842,,LION,15.00
+842,843,International Conference on Parallel and Distributed Systems,ICPADS,15.00
+843,844,International Conference on Parallel Problem Solving from Nature,PPSN,15.00
+844,845,The European Conference on Technology Enhanced Learning,EC-TEL,15.00
+845,846,The International Symposium on DIStributed Computing,DISC,15.00
+846,847,Applied Cryptography and Network Security,ACNS,15.00
+847,848,Interactions,,15.00
+848,849,AI EDAM,,15.00
+849,850,Social Network Analysis and Mining,Social Netw. Analys. Mining,15.00
+850,851,ACM Transactions on Modeling and Computer Simulation,TOMACS,15.00
+851,852,The ACM Journal on Emerging Technologies in Computing Systems,JETC,15.00
+852,853,Procedia CS,,15.00
+853,854,Teleoperators and Virtual Environments,Presence,15.00
+854,855,International Journal of Technology Management,IJTM,15.00
+855,856,Computer Science - R&D,,15.00
+856,857,Journal of Intelligent Information Systems,J. Intell. Inf. Syst.,15.00
+857,858,Journal of Ambient Intelligence and Smart Environments,JAISE,15.00
+858,859,Logic Journal of the IGPL,,15.00
+859,860,AI Communications,AI Commun.,15.00
+860,861,Cognitive Processing,COGN PROCESS,15.00
+861,862,Neuroinformatics,,15.00
+862,863,Advanced Robotics,,15.00
+863,864,International Journal of Computer Integrated Manufacturing,Int. J. Computer Integrated Manufacturing,15.00
+864,865,Future Internet,,15.00
+865,866,Journal of Nonlinear Science,J. Nonlinear Science,15.00
+866,867,International Journal of High Performance Computing Applications,IJHPCA,15.00
+867,868,Encyclopedia of Cryptography and Security (2nd Ed.),,15.00
+868,869,Information Economics and Policy,IEPOL,14.00
+869,870,Applied Artificial Intelligence,AAI,14.00
+870,871,Scientific Programming,SP,14.00
+871,872,Neural Processing Letters,NPL,14.00
+872,873,Information Technology and Management,ITM,14.00
+873,874,Human Computer Interaction,HCI,14.00
+874,875,Universal Access in the Information Society,UAIS,14.00
+875,876,VLSI Design,,14.00
+876,877,Discrete Optimization,,14.00
+877,878,Ecological Informatics,,14.00
+878,879,Swarm Intelligence,,14.00
+879,880,Non-Photorealistic Animation and Rendering,NPAR,14.00
+880,881,Pacific Symposium on Biocomputing,,14.00
+881,882,CLEF (Notebook Papers/LABs/Workshops),,14.00
+882,883,"International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",MSWiM,14.00
+883,884,International Conference on High Performance Computing,HiPC,14.00
+884,885,International Conference on Field-Programmable Technology,FPT,14.00
+885,886,International Conference on Information Technology: New Generations,ITNG,14.00
+886,887,ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking,HotSDN,14.00
+887,888,"International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation",ICSAMOS,14.00
+888,889,European Symposium on Algorithms,ESA,14.00
+889,890,Affective computing and intelligent interaction,ACII,14.00
+890,891,International Conference on Latent Variable Analysis and Source Separation,LVA/ICA,14.00
+891,892,Vehicular Networking Conference,VNC,14.00
+892,893,VLSI Test Symposium,VTS,14.00
+893,894,Conference of the Association for Computational Linguistics,ACL,14.00
+894,895,ACM SIGPLAN Symposium on Partial Evaluation and Semantics Based Programming Manipulation,PEPM,14.00
+895,896,European conference covering all aspects of parallel and distributed processing,Euro-Par,14.00
+896,897,IEEE Congress on Services,SERVICES,14.00
+897,898,International conference on network and system security,NSS,14.00
+898,899,Asian Conference on Computer Vision,ACCV,14.00
+899,900,Asian Conference on Computer Vision,ACCV,14.00
+900,901,EUROPEAN CONFERENCE ON MODELLING FOUNDATIONS AND APPLICATIONS,ECMFA,14.00
+901,902,Information Assurance and Security,IAS,14.00
+902,903,Design Science Research in Information Systems and Technologies,DESRIST,14.00
+903,904,IEEE International Conference on Engineering of Complex Computer Systems,ICECCS,14.00
+904,905,International symposium on robotics and german conference on robotics,ISR/ROBOTIK,14.00
+905,906,Computational Models of Argument,COMMA,14.00
+906,907,International Conference on Cloud Computing and Services Science,CLOSER,14.00
+907,908,Networking (1),Networking,14.00
+908,909,Workshop On Privacy In The Electronic Society,WPES,14.00
+909,910,Green Computing Conference,,14.00
+910,911,Component-Based Software Engineering,CBSE,14.00
+911,912,Network and Operating System Support for Digital Audio and Video,NOSSDAV,14.00
+912,913,International Conference on Rewriting Techniques and Applications,RTA,14.00
+913,914,International Symposium on Automated Technology for Verification and Analysis,ATVA,14.00
+914,915,International Conference on Collaboration Technologies and Systems,CTS,14.00
+915,916,GLOBECOM Workshops,,14.00
+916,917,Workshop on Internet and Network Economics,WINE,14.00
+917,918,,SPSM@CCS,14.00
+918,919,Foundations of Software Technologyand Theoretical Computer Science,FSTTCS,14.00
+919,920,FLAIRS Conference,,14.00
+920,921,International Conference on Automation Science and Engineering,CASE,14.00
+921,922,Conference on Image and Video Retrieval,CIVR,14.00
+922,923,Wireless and Moble Computing,WiMob,14.00
+923,924,International Conference on Pervasive Technologies Related to Assistive Environments,PETRA,14.00
+924,925,International Conference on Integer Programming and Combinatorial Optimization,IPCO,14.00
+925,926,Algorithm Engineering and Experimentation,ALENEX,14.00
+926,927,,WAFR,14.00
+927,928,Allerton Conference,,14.00
+928,929,,eScience,14.00
+929,930,International Conference on Utility and Cloud Computing,UCC,14.00
+930,931,DSN Workshops,,14.00
+931,932,ACM Web Science,WebSci,14.00
+932,933,Computational and Mathematical Methods in Medicine,Comp. Math. Methods in Medicine,14.00
+933,934,ACM Transactions on Autonomous and Adaptive Systems,TAAS,14.00
+934,935,Annals of Mathematics and Artificial Intelligence,Ann. Math. Artif. Intell.,14.00
+935,936,European Journal of Control,Eur. J. Control,14.00
+936,937,Journal of Discrete Algorithms,JDA,14.00
+937,938,Language and Linguistics Compass,,14.00
+938,939,The Journal of Logic and Algebraic Programming,J. Log. Algebr. Program.,14.00
+939,940,Internet Research,,14.00
+940,941,Journal of Intelligent and Fuzzy Systems,JIFS,14.00
+941,942,Journal of Computer Science and Technology,JCST,14.00
+942,943,Theory of Computing,,14.00
+943,944,Computer Science and Information Systems,ComSIS,14.00
+944,945,"Designs, Codes and Cryptography",Des. Codes Cryptography,14.00
+945,946,Journal of Artificial Societies and Social Simulation,JASSS,14.00
+946,947,ACM Transactions on Design Automation of Electronic Systems,TODAES,14.00
+947,948,Natural history museum,NHM,14.00
+948,949,ACM Transactions on Computing Education,TOCE,14.00
+949,950,Math. Program. Comput.,Math. Program. Comput.,14.00
+950,951,International Journal of Foundations of Computer Science,IJFCS,14.00
+951,952,Computer Systems Engineering,Eng. Comput. (Lond.),14.00
+952,953,Adaptive Behaviour,,14.00
+953,954,Algorithms for Molecular Biology,Algorithms Mol Biol,14.00
+954,955,Annals of Pure and Applied Logic,Ann. Pure Appl. Logic,14.00
+955,956,Journal of Visual Languages and Computing,J. Vis. Lang. Comput.,14.00
+956,957,Combinatorica,,13.00
+957,958,Computer Communications,CC,13.00
+958,959,Artificial Life,,13.00
+959,960,Complexity,,13.00
+960,961,Integrated Computer-Aided Engineering,ICAE,13.00
+961,962,"International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems",,13.00
+962,963,Virtual Reality,VR,13.00
+963,964,Machine Translation,MT,13.00
+964,965,Genetic Programming and Evolvable Machines,GPEM,13.00
+965,966,Web Intelligence,WI,13.00
+966,967,Mathematical Structures in Computer Science,MSCS,13.00
+967,968,Decision Analysis,DECIS ANAL,13.00
+968,969,Information and Organization,,13.00
+969,970,Computational Biology and Chemistry,,13.00
+970,971,Applied Ontology,,13.00
+971,972,Theory in Biosciences,THEOR BIOSCI,13.00
+972,973,Digital Investigation,,13.00
+973,974,International Workshop on Information Forensics and Security,WIFS,13.00
+974,975,EDBT/ICDT Workshops,,13.00
+975,976,IEEE International Conference on Global Software Engineering,ICGSE,13.00
+976,977,International Annual Symposium on Combinatorial Search,SOCS,13.00
+977,978,World Haptics,,13.00
+978,979,RoboCup Competition and Symposium,RoboCup,13.00
+979,980,"International Conference on Computer Safety, Reliability and Security",SAFECOMP,13.00
+980,981,ACM Great Lakes Symposium on VLSI,,13.00
+981,982,International Joint Conference on Biometrics,ICB,13.00
+982,983,,FOSSACS,13.00
+983,984,ISoLA (1),ISoLA,13.00
+984,985,IFIP International Information Security Conference,SEC,13.00
+985,986,International Symposium on Wireless Communications Systems,ISWCS,13.00
+986,987,Integrated Network Management,,13.00
+987,988,International Conference on Natural Computation,ICNC,13.00
+988,989,USENIX Workshop on Hot Topics in Operating Systems,HotOS,13.00
+989,990,International Symposium on Memory Management,ISMM,13.00
+990,991,Petri Nets,,13.00
+991,992,Web Reasoning and Rule Systems,RR,13.00
+992,993,,DAGM-Symposium,13.00
+993,994,"International Conference on Languages, Compilers, Tools and Theory for Embedded Systems",LCTES,13.00
+994,995,INTERACT (2),INTERACT,13.00
+995,996,,BMMDS/EMMSAD,13.00
+996,997,Engineering Secure Software and Systems,ESSoS,13.00
+997,998,Euromicro Symposium on Digital Systems Design,DSD,13.00
+998,999,International Conference on Quality Software,QSIC,13.00
+999,1000,International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing,IMIS,13.00

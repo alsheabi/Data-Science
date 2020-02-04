@@ -1,0 +1,313 @@
+,venue,avgVenueCite
+0,IEEE Transactions on Image Processing,3.8043478260869565
+1,Entropy,3.4482758620689653
+2,Journal of Computational and Applied Mathematics,1.3513513513513513
+3,Medical Image Analysis,4.3478260869565215
+4,European Journal of Operational Research,6.220779220779221
+5,Information Sciences,3.676470588235294
+6,International Journal of Systems Science,2.586206896551724
+7,Journal of Visual Communication and Image Representation,1.0638297872340425
+8,International Journal of Bifurcation and Chaos,6.891891891891892
+9,Applied Mathematics and Computation,3.772357723577236
+10,Microelectronics Reliability,0.8771929824561403
+11,Industrial Management and Data Systems,18.42105263157895
+12,Computerized Medical Imaging and Graphics,0.0
+13,The Visual Computer,28.333333333333332
+14,Computational and Mathematical Methods in Medicine,3.0
+15,ACM Transactions on Computer-Human Interaction,9.375
+16,IEEE Transactions on Wireless Communications,3.4482758620689653
+17,Neurocomputing,11.374193548387098
+18,Microelectronics Journal,0.0
+19,International Journal of Social Robotics,0.0
+20,IEEE Communications Magazine,17.01851851851852
+21,Applied Mathematics Letters,3.0508474576271185
+22,Advances in Engineering Software,1.6666666666666667
+23,NeuroImage,10.526315789473685
+24,International Journal of Neural Systems,0.0
+25,Journal of Chemical Information and Modeling,3.5714285714285716
+26,International Journal of Medical Informatics,3.658536585365854
+27,Journal of Medical Systems,3.488372093023256
+28,Computers & Industrial Engineering,4.545454545454546
+29,Signal Processing,3.1645569620253164
+30,Discrete Optimization,0.0
+31,Applied Soft Computing,2.962962962962963
+32,Journal of Computational Science,18.333333333333332
+33,Wireless Personal Communications,1.9125683060109289
+34,IEEE Transactions on Information Forensics and Security,7.636363636363637
+35,Computers & Chemical Engineering,7.547169811320755
+36,Journal of Heuristics,0.0
+37,Digital Signal Processing,0.0
+38,IEEE Transactions on Visualization and Computer Graphics,18.5
+39,IEEE Computer Graphics and Applications,8.333333333333334
+40,Computers & Operations Research,7.317073170731708
+41,Ecological Informatics,2.1739130434782608
+42,Engineering Applications of Artificial Intelligence,5.405405405405405
+43,Computers in Biology and Medicine,1.8867924528301887
+44,International Journal of Approximate Reasoning,4.3478260869565215
+45,Automatica,9.674796747967479
+46,Information Systems,10.526315789473685
+47,Science of Computer Programming,10.0
+48,Scientometrics,10.961538461538462
+49,Theoretical Computer Science,20.339622641509433
+50,BMC Bioinformatics,7.006329113924051
+51,Digital Investigation,0.0
+52,"IEEE Transactions on Audio, Speech, and Language Processing",0.0
+53,IEEE Communications Letters,0.0
+54,IEEE Transactions on Information Theory,28.97142857142857
+55,Journal of Parallel and Distributed Computing,5.0
+56,Computers & Graphics,33.92857142857143
+57,Environmental Modelling and Software,10.2
+58,IEEE Geoscience and Remote Sensing Letters,2.816901408450704
+59,Computers & Security,2.0833333333333335
+60,European Journal of Information Systems,22.727272727272727
+61,Social Choice and Welfare,6.2
+62,Applied Intelligence,2.0
+63,Information and Organization,16.666666666666668
+64,Cluster Computing,1.1235955056179776
+65,Annals of Pure and Applied Logic,29.875
+66,Journal of Biomedical Informatics,2.4390243902439024
+67,Concurrency and Computation: Practice and Experience,5.555555555555555
+68,Discrete Applied Mathematics,3.9215686274509802
+69,BMC Systems Biology,8.536585365853659
+70,IEEE Transactions on Signal Processing,4.576923076923077
+71,Future Generation Computer Systems,1.2820512820512822
+72,Computer Communications,2.6315789473684212
+73,Computer Networks,1.5873015873015872
+74,Artificial Intelligence in Medicine,11.11111111111111
+75,Journal of Multivariate Analysis,3.5714285714285716
+76,Mathematics and Computers in Simulation,3.3333333333333335
+77,Pattern Recognition,6.8493150684931505
+78,Multimedia Tools and Applications,1.6666666666666667
+79,Journal of Visual Languages and Computing,0.0
+80,Annals of Mathematics and Artificial Intelligence,0.0
+81,IEEE Signal Processing Letters,1.7045454545454546
+82,IEEE Software,9.296296296296296
+83,Journal of Network and Computer Applications,8.333333333333334
+84,IEEE Computer,1.5151515151515151
+85,Biological Cybernetics,25.571428571428573
+86,Proceedings of the IEEE,37.08695652173913
+87,Speech Communication,0.0
+88,Journal of Symbolic Computation,25.0
+89,Journal of Machine Learning Research,87.24
+90,EURASIP Journal on Advances in Signal Processing,14.6
+91,Neural Networks,3.8461538461538463
+92,Pervasive and Mobile Computing,10.0
+93,Computational Statistics & Data Analysis,1.4705882352941178
+94,Journal of Scientific Computing,3.3333333333333335
+95,Journal of Intelligent and Fuzzy Systems,0.0
+96,Journal of Management Information Systems,55.38461538461539
+97,Journal of Computational Physics,9.057971014492754
+98,International Journal of Computer Vision,231.55555555555554
+99,Computers & Electrical Engineering,14.285714285714286
+100,Interactions,6.25
+101,Simulation Modelling Practice and Theory,0.0
+102,Journal of Optimization Theory and Applications,6.451612903225806
+103,Machine Learning,84.08333333333333
+104,Pattern Recognition Letters,1.2820512820512822
+105,International Journal of Applied Earth Observation and Geoinformation,4.166666666666667
+106,Computers in Human Behavior,3.7037037037037037
+107,IEEE Transactions on Communications,4.166666666666667
+108,Computer Standards & Interfaces,7.142857142857143
+109,Algorithmica,27.0
+110,IEEE Design & Test of Computers,11.166666666666666
+111,International Journal of Foundations of Computer Science,12.5
+112,ACM Transactions on Intelligent Systems and Technology,9.090909090909092
+113,Computer Physics Communications,5.428571428571429
+114,"Computers, Environment and Urban Systems",12.0
+115,Information & Management,25.0
+116,Information Systems Frontiers,25.0
+117,Information & Software Technology,2.5
+118,Discrete Mathematics,5.733333333333333
+119,Journal of Computer Science and Technology,5.882352941176471
+120,Journal of Mathematical Imaging and Vision,4.545454545454546
+121,Journal of Computational Chemistry,12.5
+122,Performance Evaluation,10.363636363636363
+123,Operations Research Letters,1.962962962962963
+124,"Cyberpsychology, Behavior, and Social Networking",2.6315789473684212
+125,Distributed Computing,43.166666666666664
+126,International Journal of Geographical Information Science,7.142857142857143
+127,Reliability Engineering & System Safety,4.761904761904762
+128,IEEE Transactions on Automation Science and Engineering,0.0
+129,Personal and Ubiquitous Computing,29.166666666666668
+130,IEEE Transactions on Very Large Scale Integration Systems,6.190476190476191
+131,Journal of Economic Theory,8.941176470588236
+132,Applied Artificial Intelligence,9.090909090909092
+133,Business Process Management Journal,3.7142857142857144
+134,IEEE MultiMedia,20.0
+135,Computer Speech & Language,28.75
+136,Computers & Geosciences,2.380952380952381
+137,Data Mining and Knowledge Discovery,0.0
+138,Journal of Global Optimization,3.3333333333333335
+139,Journal of Knowledge Management,7.5
+140,ACM Transactions on Computer Systems,207.66666666666666
+141,Computing in Science and Engineering,0.0
+142,ACM Transactions on Modeling and Computer Simulation,12.5
+143,Advanced Engineering Informatics,13.636363636363637
+144,European Journal of Control,19.0
+145,Systems & Control Letters,5.096774193548387
+146,Computer Methods and Programs in Biomedicine,11.290322580645162
+147,Manufacturing & Service Operations Management,0.0
+148,Journal of Informetrics,8.588235294117647
+149,ACM Computing Surveys,6.666666666666667
+150,IEEE Internet Computing,5.357142857142857
+151,ACM Transactions on Graphics,5.555555555555555
+152,Artificial Intelligence,16.666666666666668
+153,Formal Methods in System Design,0.0
+154,Empirical Software Engineering,0.0
+155,International Journal of High Performance Computing Applications,0.0
+156,Journal of the ACM,107.22222222222223
+157,International Journal on Document Analysis and Recognition,0.0
+158,IEEE Transactions on Industrial Electronics,4.545454545454546
+159,Operating Systems Review,18.181818181818183
+160,Optimization Letters,50.0
+161,Networks,39.583333333333336
+162,International Journal on Software Tools for Technology Transfer,0.0
+163,Cognitive Processing,0.0
+164,SIAM Journal on Matrix Analysis and Applications,0.6666666666666666
+165,Logical Methods in Computer Science,50.0
+166,Cognitive Systems Research,20.833333333333332
+167,The Journal of Logic and Algebraic Programming,0.0
+168,IEEE Wireless Communications,10.714285714285714
+169,Bioinformatics,37.5
+170,Scientific Programming,4.6875
+171,Algorithms for Molecular Biology,4.545454545454546
+172,Journal of Cheminformatics,2.7777777777777777
+173,Behaviour & Information Technology,4.166666666666667
+174,Genetic Programming and Evolvable Machines,27.77777777777778
+175,Knowledge and Information Systems,1.6363636363636365
+176,Internet Research,5.882352941176471
+177,The Journal of Supercomputing,0.0
+178,International Journal of Computer Mathematics,50.0
+179,Games and Economic Behavior,12.5
+180,Computers in Industry,7.6923076923076925
+181,IEEE Transactions on Parallel and Distributed Systems,0.0
+182,IEEE Intelligent Systems,12.5
+183,IEEE Network,6.25
+184,Organization Science,0.0
+185,Image and Vision Computing,3.8461538461538463
+186,SIAM Journal on Discrete Mathematics,20.555555555555557
+187,Journal of Computer and System Sciences,26.555555555555557
+188,Computer Aided Geometric Design,1.7241379310344827
+189,Information Processing Letters,2.0833333333333335
+190,European Journal of Combinatorics,0.0
+191,Autonomous Robots,0.0
+192,ACM Transactions on Design Automation of Electronic Systems,0.0
+193,Journal of Computational Biology,107.4
+194,Mathematics of Operations Research,43.25
+195,International Journal of Information Technology and Decision Making,0.0
+196,Computational Biology and Chemistry,0.0
+197,International Journal of Biomedical Imaging,0.0
+198,Annals of Operations Research,17.857142857142858
+199,Robotics and Autonomous Systems,3.9473684210526314
+200,Information Fusion,13.333333333333334
+201,ACM Transactions on Algorithms,25.0
+202,Journal of Applied Mathematics,0.0
+203,Fuzzy Sets and Systems,9.090909090909092
+204,ACM Transactions on Database Systems,16.666666666666668
+205,Journal of Cognitive Neuroscience,15.0
+206,Journal of Grid Computing,0.0
+207,International Journal of Computer Integrated Manufacturing,0.0
+208,Combinatorica,186.22222222222223
+209,ACM Transactions on Autonomous and Adaptive Systems,0.0
+210,IEEE/ACM Transactions on Computational Biology and Bioinformatics,0.0
+211,Journal of Intelligent and Robotic Systems,2.380952380952381
+212,IEEE Pervasive Computing,0.0
+213,International Journal of Digital Earth,0.0
+214,Journal of Digital Imaging,0.0
+215,IEEE Systems Journal,0.0
+216,Numerical Algorithms,0.0
+217,Journal of the Operational Research Society,0.0
+218,Journal of Complexity,0.0
+219,ACM Transactions on Architecture and Code Optimization,7.142857142857143
+220,Operations Research,11.538461538461538
+221,Journal of Computational Neuroscience,7.142857142857143
+222,Information Economics and Policy,0.0
+223,Journal of Biomedical Semantics,6.25
+224,IEEE Transactions on Industrial Informatics,8.333333333333334
+225,Systems Engineering,0.0
+226,Decision Analysis,0.0
+227,Mathematics of Computation,33.111111111111114
+228,IEEE Transactions on Robotics,65.66666666666667
+229,Formal Aspects of Computing,0.0
+230,Journal of Artificial Societies and Social Simulation,66.66666666666667
+231,Transportation Science,0.0
+232,Computer Vision and Image Understanding,7.7
+233,IEEE Transactions on Multimedia,0.0
+234,Journal of Automated Reasoning,139.0
+235,Marketing Science,0.0
+236,IEEE Transactions on Network and Service Management,0.0
+237,IEEE Signal Processing Magazine,0.0
+238,ACM Transactions on Software Engineering and Methodology,25.0
+239,Future Internet,0.0
+240,Neural Computation,0.0
+241,Advanced Robotics,6.0
+242,Journal of Discrete Algorithms,25.0
+243,IEEE Transactions on Knowledge and Data Engineering,15.857142857142858
+244,Electronic Commerce Research and Applications,0.0
+245,IEEE Transactions on Consumer Electronics,0.0
+246,Computer Graphics Forum,0.0
+247,ACM Transactions on Programming Languages and Systems,12.5
+248,IEEE Transactions on Intelligent Transportation Systems,0.0
+249,Medical & Biological Engineering & Computing,11.11111111111111
+250,IEEE Transactions on Pattern Analysis and Machine Intelligence,706.0
+251,Multiscale Modeling & Simulation,30.666666666666668
+252,"International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems",0.0
+253,ACM Transactions on Storage,10.0
+254,IEEE Transactions on Medical Imaging,104.33333333333333
+255,Foundations of Computational Mathematics,2844.0
+256,Electronic Colloquium on Computational Complexity,0.0
+257,Technology Analysis & Strategic Management,50.0
+258,Telecommunication Systems,5.0
+259,Journal of Combinatorial Optimization,42.666666666666664
+260,IEEE Transactions on Mobile Computing,50.0
+261,Database,50.0
+262,Telematics and Informatics,8.333333333333334
+263,ACM Transactions on Sensor Networks,63.0
+264,IEEE Robotics & Automation Magazine,0.0
+265,Interactive Learning Environments,16.666666666666668
+266,Wireless Networks,0.0
+267,Complexity,57.0
+268,Machine Translation,0.0
+269,Journal of Nonlinear Science,0.0
+270,Artificial Life,16.666666666666668
+271,Swarm Intelligence,0.0
+272,IEEE Transactions on Fuzzy Systems,0.0
+273,Annual Reviews in Control,25.0
+274,IEEE Transactions on Evolutionary Computation,50.0
+275,Quantum Information & Computation,6.0
+276,Information Systems Research,0.0
+277,Social Networks,8.333333333333334
+278,Journal of Scheduling,33.333333333333336
+279,Software Quality Journal,64.0
+280,Mathematical Structures in Computer Science,50.0
+281,Autonomous Agents and Multi-Agent Systems,10.0
+282,IEEE Transactions on Smart Grid,16.666666666666668
+283,Language and Linguistics Compass,0.0
+284,Journal of Graph Theory,30.714285714285715
+285,Theory in Biosciences,1.0
+286,IEEE Transactions on Vehicular Technology,33.333333333333336
+287,Proceedings of The Vldb Endowment,0.0
+288,Neuroinformatics,0.0
+289,Security and Communication Networks,50.0
+290,IEEE Transactions on Software Engineering,310.0
+291,IEEE Transactions on Biomedical Engineering,28.5
+292,Management Science,50.0
+293,New Media & Society,0.0
+294,IEEE Computational Intelligence Magazine,0.0
+295,SIAM Journal on Numerical Analysis,13.5
+296,Electronic Notes in Theoretical Computer Science,5.0
+297,IEEE Transactions on Dependable and Secure Computing,0.0
+298,Finance and Stochastics,17.666666666666668
+299,Information Retrieval,0.0
+300,Fundamenta Informaticae,27.5
+301,"Designs, Codes and Cryptography",0.0
+302,Advances in Computational Mathematics,93.66666666666667
+303,ACM Transactions on Mathematical Software,0.0
+304,Journal of Field Robotics,0.0
+305,Evolutionary Computation,6.0
+306,SIAM Journal on Scientific Computing,32.0
+307,Journal of Web Semantics,0.0
+308,Virtual Reality,25.0
+309,ACM Transactions on Information Systems,0.0
+310,Synthese,50.0
+311,International Journal of Distributed Sensor Networks,0.0

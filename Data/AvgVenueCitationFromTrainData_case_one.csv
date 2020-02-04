@@ -1,0 +1,607 @@
+,venue,avgVenueCite
+0,Lecture Notes in Computer Science,16.943556975505857
+1,,
+2,Journal of Computational Biology,224.0731707317073
+3,"Cyberpsychology, Behavior, and Social Networking",1093.0
+4,International Journal of Computer Vision,1017.0
+5,national conference on artificial intelligence,83.16
+6,IEEE Transactions on Pattern Analysis and Machine Intelligence,1362.0
+7,cryptographic hardware and embedded systems,844.0
+8,conference on computability in europe,820.0
+9,hawaii international conference on system sciences,434.0
+10,formal methods,214.2
+11,Computer Speech & Language,755.0
+12,The Information Society,729.0
+13,Combinatorica,130.25
+14,european conference on parallel processing,164.6
+15,very large data bases,188.75
+16,international world wide web conferences,84.75
+17,ACM Transactions on Computer Systems,623.0
+18,embedded software,616.0
+19,International Journal on Digital Libraries,599.0
+20,international joint conference on artificial intelligence,94.15384615384616
+21,north american chapter of the association for computational linguistics,35.464646464646464
+22,IEEE Transactions on Information Theory,276.0
+23,Journal of the ACM,285.5
+24,Complex Systems,49.32857142857143
+25,Journal of Arabic and Islamic Studies,247.66666666666666
+26,Journal of Computer-aided Molecular Design,456.0
+27,Journal of Algorithms,108.875
+28,logical aspects of computational linguistics,165.0
+29,IEEE Transactions on Very Large Scale Integration Systems,260.5
+30,"IEEE Transactions on Acoustics, Speech, and Signal Processing",129.77777777777777
+31,Teleoperators and Virtual Environments,240.5
+32,IEEE Communications Magazine,234.5
+33,Formal Aspects of Computing,48.52173913043478
+34,international symposium on symbolic and algebraic computation,231.5
+35,measurement and modeling of computer systems,409.0
+36,theory and application of cryptographic techniques,172.5
+37,international workshop on quality of service,373.0
+38,international conference on database theory,213.5
+39,Neural Computation,359.0
+40,Cvgip: Image Understanding,347.0
+41,Annals of Operations Research,331.0
+42,IEEE Transactions on Software Engineering,134.0
+43,Information Retrieval,210.5
+44,IEEE Transactions on Medical Imaging,313.0
+45,international symposium on neural networks,175.5
+46,usenix conference on file and storage technologies,98.0
+47,Artificial Intelligence,290.0
+48,The Computer Journal,282.0
+49,Operating Systems Review,47.9
+50,Journal of Management Information Systems,181.71428571428572
+51,international cryptology conference,157.5
+52,european symposium on algorithms,58.857142857142854
+53,international conference on computer graphics and interactive techniques,26.217391304347824
+54,Scientometrics,98.5
+55,international conference on machine learning,64.0909090909091
+56,ACM Transactions on Computer-Human Interaction,146.0
+57,Automatica,9.18
+58,Theory of Computing,96.28571428571429
+59,Advances in Computational Mathematics,231.0
+60,Computers & Graphics,225.0
+61,conference on computer supported cooperative work,218.0
+62,intelligent virtual agents,213.0
+63,european conference on object oriented programming,110.66666666666667
+64,Journal of Software Maintenance and Evolution: Research and Practice,210.0
+65,symposium on discrete algorithms,78.78571428571429
+66,Communications of The ACM,42.57142857142857
+67,international conference on computational linguistics,89.0
+68,Communications of The Ais,75.25
+69,principles and practice of constraint programming,53.30434782608695
+70,international colloquium on automata languages and programming,193.0
+71,Electronic Colloquium on Computational Complexity,21.473684210526315
+72,Computers and Biomedical Research,51.18181818181818
+73,intelligent agents,117.0
+74,"Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing",101.25
+75,Theoretical Computer Science,77.46153846153847
+76,Mathematical Programming,91.0
+77,Journal of Artificial Societies and Social Simulation,72.375
+78,Machine Learning,91.75
+79,operating systems design and implementation,157.0
+80,conference on automated deduction,62.111111111111114
+81,Journal of Information Technology,116.5
+82,Software Quality Journal,105.0
+83,Distributed Computing,144.0
+84,Wasserwirtschaft,143.0
+85,randomization and approximation techniques in computer science,96.0
+86,Journal of Computer and System Sciences,94.5
+87,Journal of Automated Reasoning,139.0
+88,international symposium on microarchitecture,96.5
+89,Annals of Pure and Applied Logic,52.5
+90,Ageing Research Reviews,4.387096774193548
+91,usenix security symposium,91.5
+92,IEEE Journal of Selected Topics in Signal Processing,133.0
+93,IEEE Computer Graphics and Applications,60.333333333333336
+94,Computers in Education,21.5
+95,ACM Transactions on Database Systems,86.66666666666667
+96,Spring,36.0
+97,european conference on research and advanced technology for digital libraries,122.0
+98,Mobile Networks and Applications,77.33333333333333
+99,Scopus,10.35897435897436
+100,international conference on concurrency theory,79.0
+101,Computational Optimization and Applications,117.0
+102,visual communications and image processing,5.0375
+103,Performance Evaluation,54.666666666666664
+104,algebraic methodology and software technology,71.33333333333333
+105,information theory and applications,81.0
+106,IEEE Transactions on Knowledge and Data Engineering,111.0
+107,Logical Methods in Computer Science,52.1
+108,international symposium on distributed computing,97.5
+109,Kybernetika,103.0
+110,international conference on logic programming,53.0
+111,local computer networks,102.0
+112,IEEE Software,33.666666666666664
+113,combinatorial pattern matching,74.5
+114,Information Processing and Management,49.5
+115,international conference on parallel processing,72.5
+116,eurographics symposium on rendering techniques,63.0
+117,Software and Systems Modeling,92.0
+118,Siam Journal on Applied Dynamical Systems,90.0
+119,inductive logic programming,47.0
+120,rewriting techniques and applications,47.5
+121,Journal of Machine Learning Research,34.0
+122,asian semantic web conference,87.0
+123,european conference on computer vision,28.666666666666668
+124,IEEE Transactions on Visualization and Computer Graphics,85.0
+125,Electronic Notes in Theoretical Computer Science,30.4
+126,International Journal of Electronic Commerce,68.0
+127,Multiagent and Grid Systems,81.0
+128,D-lib Magazine,63.5
+129,Scientific Programming,75.0
+130,EURASIP Journal on Advances in Signal Processing,24.666666666666668
+131,Journal of Combinatorial Theory,61.5
+132,Computer-aided Design,24.333333333333332
+133,algorithmic applications in management,73.0
+134,Multiscale Modeling & Simulation,36.5
+135,international semantic web conference,71.0
+136,Mathematical Methods of Operations Research,60.5
+137,Journal of High Speed Networks,71.0
+138,intelligent data analysis,70.0
+139,Applied Mathematics Letters,34.5
+140,international conference on evolvable systems,69.0
+141,IEEE Transactions on Automatic Control,68.0
+142,International Journal on Document Analysis and Recognition,67.0
+143,IEEE Design & Test of Computers,22.333333333333332
+144,international conference on principles of distributed systems,66.0
+145,supercomputing conference,65.0
+146,mathematical foundations of computer science,55.0
+147,ACM Transactions on Information Systems,55.0
+148,Complexity,53.5
+149,Environmental Modelling and Software,63.0
+150,Experimental Mathematics,57.0
+151,public key cryptography,56.0
+152,Computer Science,62.0
+153,Ibm Journal of Research and Development,61.0
+154,international conference on robotics and automation,56.333333333333336
+155,Advances in Complex Systems,45.5
+156,Ai Magazine,54.0
+157,adaptive agents and multi-agents systems,56.0
+158,conference of the international speech communication association,9.333333333333334
+159,Internet Mathematics,56.0
+160,foundations of software engineering,55.0
+161,International Journal of Bifurcation and Chaos,35.0
+162,Journal of Computational and Applied Mathematics,18.333333333333332
+163,Numerical Linear Algebra With Applications,54.0
+164,Advanced Robotics,51.333333333333336
+165,Computer Vision and Image Understanding,52.0
+166,tools and algorithms for construction and analysis of systems,52.0
+167,Algorithmica,43.666666666666664
+168,Transactions of The Japanese Society for Artificial Intelligence,26.5
+169,IEEE Computer,38.25
+170,source code analysis and manipulation,53.0
+171,integer programming and combinatorial optimization,53.0
+172,international conference on service oriented computing,53.0
+173,Journal of Computing and Information Technology,37.55
+174,Journal of Symbolic Logic,37.875
+175,compiler construction,50.75
+176,symposium on the theory of computing,51.0
+177,ubiquitous computing,50.666666666666664
+178,discovery science,13.733333333333333
+179,"international conference on acoustics, speech, and signal processing",38.09090909090909
+180,european conference on artificial intelligence,50.25
+181,Computers & Mathematics With Applications,50.5
+182,workshop on algorithms and data structures,25.0
+183,ACM Sigsoft Software Engineering Notes,22.727272727272727
+184,Science of Computer Programming,25.0
+185,Proceedings of SPIE,19.833333333333332
+186,Archive for Mathematical Logic,21.6
+187,vision modeling and visualization,33.333333333333336
+188,Numerical Algorithms,25.0
+189,product focused software process improvement,50.0
+190,developments in language theory,25.0
+191,algorithmic learning theory,7.857142857142857
+192,Carbon,50.0
+193,Microelectronics Reliability,50.0
+194,SIAM Journal on Matrix Analysis and Applications,8.695652173913043
+195,adaptive agents and multi agents systems,50.0
+196,Ssrn Electronic Journal,50.0
+197,Computational Materials Science,50.0
+198,uncertainty in artificial intelligence,33.333333333333336
+199,Annales Des Télécommunications,25.0
+200,neural information processing systems,50.0
+201,foundations of software science and computation structure,33.333333333333336
+202,Siam Journal on Mathematical Analysis,50.0
+203,Mathematics of Computation,50.0
+204,Discrete and Computational Geometry,50.0
+205,"Applicable Algebra in Engineering, Communication and Computing",25.0
+206,Interactions,50.0
+207,computer vision and pattern recognition,50.0
+208,robot soccer world cup,40.0
+209,international conference on telecommunications,25.0
+210,Intelligence\/sigart Bulletin,19.214285714285715
+211,Government Information Quarterly,3.125
+212,Ingénierie Des Systèmes D'information,50.0
+213,intelligent data engineering and automated learning,50.0
+214,International Journal of Online Engineering,50.0
+215,european symposium on programming,50.0
+216,language resources and evaluation,25.0
+217,The International Journal of Robotics Research,50.0
+218,computer science logic,50.0
+219,parallel computing,50.0
+220,foundations of computer science,50.0
+221,Autonomous Agents and Multi-Agent Systems,50.0
+222,Acta Informatica,34.22222222222222
+223,Digital Investigation,25.0
+224,vlsi test symposium,25.0
+225,international workshop on security,37.5
+226,graphics interface,50.0
+227,intelligent robots and systems,33.0
+228,Journal of Systems Architecture,50.0
+229,Journal of Digital Information,33.0
+230,Journal of Digital Information Management,24.6
+231,international conference on computer vision,50.0
+232,Chicago Journal of Theoretical Computer Science,50.0
+233,non-monotonic reasoning,50.0
+234,Journal of Korean Society of Medical Informatics,50.0
+235,formal ontology in information systems,50.0
+236,conference of the european chapter of the association for computational linguistics,50.0
+237,Journal of Graph Theory,50.0
+238,innovative applications of artificial intelligence,50.0
+239,Physics Letters B,50.0
+240,fast software encryption,50.0
+241,granular computing,50.0
+242,international symposium on information theory and its applications,50.0
+243,IEEE Internet Computing,25.0
+244,Mobile Information Systems,50.0
+245,symposium on principles of database systems,50.0
+246,Applied Categorical Structures,50.0
+247,international conference on conceptual structures,37.5
+248,Discrete Mathematics,16.666666666666668
+249,Journal of Computational Chemistry,50.0
+250,Journal of Global Optimization,50.0
+251,Radiocarbon,50.0
+252,Fundamenta Informaticae,35.0
+253,algorithm engineering and experimentation,50.0
+254,international joint conference on automated reasoning,50.0
+255,great lakes symposium on vlsi,50.0
+256,genetic and evolutionary computation conference,50.0
+257,australasian computer-human interaction conference,50.0
+258,Australian Journal of Early Childhood,50.0
+259,european conference on information systems,50.0
+260,workshop on recent trends in algebraic development techniques,50.0
+261,Computational Linguistics,13.25
+262,prague stringology conference,10.0
+263,database and expert systems applications,37.5
+264,Computer Physics Communications,50.0
+265,Synthesis,50.0
+266,The Journal of Experimental Biology,50.0
+267,Informs Journal on Computing,50.0
+268,formal methods for open object-based distributed systems,50.0
+269,Constraints - An International Journal,50.0
+270,international conference on e-business engineering,50.0
+271,computational intelligence and security,33.666666666666664
+272,research in computational molecular biology,50.0
+273,Electronic Journal of Combinatorics,31.5
+274,Graphs and Combinatorics,50.0
+275,Minds and Machines,50.0
+276,Journal of Geographical Systems,50.0
+277,semantic web applications and perspectives,50.0
+278,conference on scientific computing,2.0
+279,international conference on coordination models and languages,50.0
+280,database programming languages,50.0
+281,ieee virtual reality conference,50.0
+282,Journal of Applied Physics,50.0
+283,international conference on software engineering,50.0
+284,Knowledge Engineering Review,50.0
+285,Journal of Cryptology,50.0
+286,"verified software: theories, tools, experiments",50.0
+287,Journal of Web Engineering,50.0
+288,australasian conference on information security and privacy,50.0
+289,conference on information and knowledge management,16.666666666666668
+290,human factors in computing systems,10.0
+291,software engineering for resilient systems,50.0
+292,industrial and engineering applications of artificial intelligence and expert systems,12.5
+293,Journal of the American Medical Informatics Association,7.6923076923076925
+294,IEEE Parallel & Distributed Technology: Systems & Applications,50.0
+295,international symposium on visual computing,50.0
+296,Transactions of The Society for Computer Simulation International,50.0
+297,Optical Switching and Networking,33.333333333333336
+298,ACM Computing Surveys,50.0
+299,computational learning theory,37.5
+300,acm special interest group on data communication,25.0
+301,Advances in Computers,31.25
+302,Requirements Engineering,50.0
+303,Control and Intelligent Systems,50.0
+304,"Electronic Government, An International Journal",50.0
+305,The Journal of Object Technology,50.0
+306,international colloquium on grammatical inference,50.0
+307,graph drawing,50.0
+308,international conference on cluster computing,50.0
+309,Pedagogische Studien,50.0
+310,Chemical Engineering Journal,25.0
+311,software product lines,50.0
+312,International Journal of Intelligent Systems,37.5
+313,Journal of Symbolic Computation,50.0
+314,Journal of Combinatorial Optimization,42.666666666666664
+315,Logic Journal of The Igpl \/ Bulletin of The Igpl,16.666666666666668
+316,theorem proving in higher order logics,50.0
+317,fundamental approaches to software engineering,50.0
+318,fundamentals of computation theory,39.666666666666664
+319,international conference on functional programming,50.0
+320,ieee-ras international conference on humanoid robots,50.0
+321,pacific symposium on biocomputing,50.0
+322,international symposium on robotics,50.0
+323,International Journal of Algebra and Computation,50.0
+324,international conference on communications,50.0
+325,A Quarterly Journal of Operations Research,14.571428571428571
+326,international workshop on digital watermarking,50.0
+327,international conference on distributed computing systems,50.0
+328,workshop on internet and network economics,50.0
+329,Information Processing Letters,25.0
+330,algorithmic aspects of wireless sensor networks,50.0
+331,computational intelligence,50.0
+332,"Annales Umcs, Informatica",35.0
+333,Computing,16.666666666666668
+334,International Journal of Emerging Technologies in Learning (ijet),50.0
+335,Proceedings of the IEEE,50.0
+336,Journal of Computers,50.0
+337,latin american symposium on theoretical informatics,50.0
+338,Siam Journal on Scientific and Statistical Computing,50.0
+339,probabilistic graphical models,16.666666666666668
+340,knowledge discovery and data mining,50.0
+341,Computer Systems: Science & Engineering,50.0
+342,Manufacturing & Service Operations Management,50.0
+343,database systems for advanced applications,50.0
+344,International Journal of It Standards and Standardization Research,50.0
+345,international workshop on combinatorial image analysis,50.0
+346,IEEE Transactions on Robotics and Automation,50.0
+347,Biology of Reproduction,50.0
+348,Electronic Notes in Discrete Mathematics,12.818181818181818
+349,International Journal of Pattern Recognition and Artificial Intelligence,50.0
+350,meeting of the association for computational linguistics,50.0
+351,IEEE Computer Society,5.555555555555555
+352,Archives and Museum Informatics,22.5
+353,european conference on web services,50.0
+354,International Journal of Approximate Reasoning,50.0
+355,the practice of enterprise modeling,50.0
+356,european symposium on research in computer security,50.0
+357,international conference on tools with artificial intelligence,50.0
+358,Journal of Computational Neuroscience,50.0
+359,international symposium on algorithms and computation,25.0
+360,application specific systems architectures and processors,50.0
+361,Molecular & Cellular Proteomics,50.0
+362,Journal of The American Society for Information Science,10.416666666666666
+363,Artificial Intelligence in Medicine,7.142857142857143
+364,Journal of Mathematical Imaging and Vision,50.0
+365,Mathematics of Operations Research,25.0
+366,Social Networks,50.0
+367,Networks,50.0
+368,New Generation Computing,50.0
+369,algebraic biology,50.0
+370,Simulation,50.0
+371,international conference on distributed smart cameras,50.0
+372,Journal of Documentation,50.0
+373,SIAM Journal on Computing,50.0
+374,Journal of Scheduling,50.0
+375,Vlsi Design,50.0
+376,Journal of Logic Programming,50.0
+377,international symposium on parallel and distributed processing and applications,50.0
+378,principles of knowledge representation and reasoning,25.0
+379,Pattern Recognition Letters,50.0
+380,IEEE Data(base) Engineering Bulletin,16.666666666666668
+381,grid computing,25.0
+382,Linear Algebra and its Applications,50.0
+383,Reliability Engineering & System Safety,50.0
+384,information processing in sensor networks,50.0
+385,soft computing,25.0
+386,computer aided verification,50.0
+387,Theory of Computing Systems \/ Mathematical Systems Theory,16.666666666666668
+388,Nucleic Acids Research,50.0
+389,ACM Sigsmall\/pc Notes,21.428571428571427
+390,global communications conference,50.0
+391,IEEE Transactions on Signal Processing,29.333333333333332
+392,international conference on persuasive technology,50.0
+393,international conference of the ieee engineering in medicine and biology society,50.0
+394,Journal of Parallel and Distributed Computing,50.0
+395,Journal of Decision Systems,50.0
+396,Scandinavian Journal of Information Systems,22.6
+397,formal methods for industrial critical systems,50.0
+398,computer supported collaborative learning,50.0
+399,Concurrency and Computation: Practice and Experience,40.0
+400,Siam Journal on Control and Optimization,50.0
+401,Bioinformatics,50.0
+402,Journal of Quantitative Linguistics,50.0
+403,asian test symposium,50.0
+404,international conference on artificial neural networks,25.0
+405,World Wide Web Journal,32.35294117647059
+406,international test conference,25.0
+407,foundations of software technology and theoretical computer science,50.0
+408,mathematics of program construction,50.0
+409,smart card research and advanced application conference,50.0
+410,medical informatics europe,15.9
+411,decision support systems,50.0
+412,international conference on human computer interaction,50.0
+413,performance evaluation methodolgies and tools,25.0
+414,Real-time Systems,50.0
+415,"broadband communications, networks and systems",50.0
+416,international conference on cryptology in india,50.0
+417,Journal of Computational Physics,50.0
+418,machine vision applications,25.0
+419,Informatica (lithuanian Academy of Sciences),50.0
+420,IEEE MultiMedia,50.0
+421,Synthese,50.0
+422,international conference on management of data,5.555555555555555
+423,European Journal of Combinatorics,50.0
+424,Praxis Der Wirtschaftsinformatik,50.0
+425,geographic information science,50.0
+426,wireless personal multimedia communications,50.0
+427,Journal of Bioinformatics and Computational Biology,50.0
+428,Journal of Informetrics,46.0
+429,Ibis,44.0
+430,international conference on data engineering,43.0
+431,Synthesis Lectures on Biomedical Engineering,43.0
+432,Applied Mathematics and Computation,43.0
+433,winter simulation conference,21.0
+434,Studia Logica,32.0
+435,IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems,10.333333333333334
+436,Biological Cybernetics,29.0
+437,Siam Journal on Applied Mathematics,16.5
+438,Neurocomputing,26.0
+439,Cybernetics and Human Knowing,24.0
+440,Statistical Methods and Applications,21.0
+441,Wirtschaftsinformatik \/ Angewandte Informatik,5.0
+442,Heat and Mass Transfer,17.0
+443,IEICE Transactions on Communications,13.0
+444,Notre Dame Journal of Formal Logic,12.0
+445,Computers and The Humanities,11.0
+446,international conference on conceptual modeling,8.0
+447,Queueing Systems,6.0
+448,Systems & Control Letters,5.0
+449,international conference on image processing,4.0
+450,International Journal of Information Management,0.23076923076923078
+451,system-level interconnect prediction,2.0
+452,International Journal of Emerging Technologies in Learning,2.0
+453,computing and combinatorics conference,1.0
+454,IEEE Transactions on Control Systems and Technology,2.0
+455,Theory in Biosciences,2.0
+456,Business Process Management Journal,2.0
+457,IEICE Transactions on Information and Systems,1.0
+458,Cognitive Systems Research,0.5
+459,flexible query answering systems,1.0
+460,Physical Review A,1.0
+461,Child and Adolescent Psychiatric Clinics of North America,1.0
+462,Computational Biology and Chemistry,0.0
+463,"International Journal of Metadata, Semantics and Ontologies",0.0
+464,world congress on computational intelligence,0.0
+465,Geobios,0.0
+466,International Journal of Geographical Information Science,0.0
+467,The Computer Science Journal of Moldova,0.0
+468,intelligence and security informatics,0.0
+469,modeling analysis and simulation of wireless and mobile systems,0.0
+470,Zeitschrift Für Interaktive Und Kooperative Medien,0.0
+471,"wireless and mobile computing, networking and communications",0.0
+472,international conference on information networking,0.0
+473,design automation conference,0.0
+474,model driven engineering languages and systems,0.0
+475,image and vision computing new zealand,0.0
+476,virtual reality continuum and its applications in industry,0.0
+477,Energy Procedia,0.0
+478,ACM Sigsim Simulation Digest,0.0
+479,extending database technology,0.0
+480,field-programmable custom computing machines,0.0
+481,asia pacific software engineering conference,0.0
+482,Software - Concepts and Tools \/ Structured Programming,0.0
+483,International Journal of Network Management,0.0
+484,Ima Journal of Mathematical Control and Information,0.0
+485,conference on decision and control,0.0
+486,"computer, information, and systems sciences, and engineering",0.0
+487,Bulletin of The European Association for Theoretical Computer Science,0.0
+488,Journal of Japan Society for Fuzzy Theory and Intelligent Informatics,0.0
+489,Computer Graphics Forum,0.0
+490,Language and Cognitive Processes,0.0
+491,Virtual Reality,0.0
+492,theorem proving with analytic tableaux and related methods,0.0
+493,pacific rim international conference on artificial intelligence,0.0
+494,text retrieval conference,0.0
+495,Euromicro Newsletter,0.0
+496,computer software and applications conference,0.0
+497,Finite Fields and Their Applications,0.0
+498,Elektrotechnik Und Informationstechnik,0.0
+499,Fuzzy Sets and Systems,0.0
+500,Computational Statistics & Data Analysis,0.0
+501,Best Practice & Research in Clinical Obstetrics & Gynaecology,0.0
+502,Sigmod Record,0.0
+503,programming language design and implementation,0.0
+504,Journal of Web Semantics,0.0
+505,international conference on information systems,0.0
+506,privacy enhancing technologies,0.0
+507,Computer Science Education,0.0
+508,Transactions on Rough Sets,0.0
+509,Journal of the Association for Information Science and Technology,0.0
+510,Stress,0.0
+511,Quantum Information & Computation,0.0
+512,computer and communications security,0.0
+513,Mathematics and Computers in Simulation,0.0
+514,Pervasive and Mobile Computing,0.0
+515,real time systems symposium,0.0
+516,siam international conference on data mining,0.0
+517,Microprocessors and Microsystems,0.0
+518,conference on advanced information systems engineering,0.0
+519,Sigplan Notices,0.0
+520,brazilian symposium on artificial intelligence,0.0
+521,IEEE Transactions on Computers,0.0
+522,scandinavian conference on image analysis,0.0
+523,Journal of Economic Behavior and Organization,0.0
+524,IEEE Transactions on Circuits and Systems Ii-express Briefs,0.0
+525,ACM Sigarch Computer Architecture News,0.0
+526,international conference on hybrid information technology,0.0
+527,Sigir Forum,0.0
+528,theory and applications of models of computation,0.0
+529,Sigact News,0.0
+530,applied perception in graphics and visualization,0.0
+531,medical image computing and computer assisted intervention,0.0
+532,ieee symposium on security and privacy,0.0
+533,Computers & Industrial Engineering,0.0
+534,Information Technology,0.0
+535,Computer Communications,0.0
+536,Annals of Physical and Rehabilitation Medicine,0.0
+537,European Transactions on Telecommunications,0.0
+538,Neural Networks,0.0
+539,Nederlands Tijdschrift voor Geneeskunde,0.0
+540,Transfusion and Apheresis Science,0.0
+541,vehicular technology conference,0.0
+542,international conference on security and cryptography,0.0
+543,Informatica (slovenia),0.0
+544,European Journal of Control,0.0
+545,grid and cooperative computing,0.0
+546,Information & Software Technology,0.0
+547,international parallel and distributed processing symposium,0.0
+548,international conference on computer aided design,0.0
+549,advances in computing and communications,0.0
+550,Applied Soft Computing,0.0
+551,IEEE Annals of the History of Computing,0.0
+552,Environmental Pollution,0.0
+553,Discrete Applied Mathematics,0.0
+554,International Journal of High Performance Computing Applications,0.0
+555,IEEE Transactions on Instrumentation and Measurement,0.0
+556,international conference on case-based reasoning,0.0
+557,static analysis symposium,0.0
+558,color imaging conference,0.0
+559,Signal Processing,0.0
+560,International Journal of Advanced Corporate Learning (ijac),0.0
+561,Journal of Pragmatics,0.0
+562,International Journal of Knowledge and Learning,0.0
+563,typed lambda calculus and applications,0.0
+564,ACM Transactions on Computational Logic,0.0
+565,Information Management & Computer Security,0.0
+566,Oceanology,0.0
+567,Software Focus,0.0
+568,Statistics and Computing,0.0
+569,acm ieee international conference on mobile computing and networking,0.0
+570,Lecture Notes in Mathematics,0.0
+571,ieee symposium on information visualization,0.0
+572,Artificial Life,0.0
+573,pacific asia conference on information systems,0.0
+574,integrated network management,0.0
+575,autonomous and intelligent systems,0.0
+576,parallel and distributed computing systems (isca),0.0
+577,computer applications in industry and engineering,0.0
+578,Genetic Resources and Crop Evolution,0.0
+579,Journal of Pharmacology and Experimental Therapeutics,0.0
+580,communications and mobile computing,0.0
+581,parallel and distributed computing: applications and technologies,0.0
+582,"semantics, knowledge and grid",0.0
+583,Environmental Monitoring and Assessment,0.0
+584,IEEE Distributed Systems Online,0.0
+585,International Journal of Computational Geometry and Applications,0.0
+586,simulation of adaptive behavior,0.0
+587,canadian conference on computational geometry,0.0
+588,Integrated Computer-aided Engineering,0.0
+589,information security,0.0
+590,distributed computing and artificial intelligence,0.0
+591,ieee international conference on high performance computing data and analytics,0.0
+592,Computers & Security,0.0
+593,Computers in Biology and Medicine,0.0
+594,International Journal,0.0
+595,Electronic Journal of Knowledge Management,0.0
+596,finite-state methods and natural language processing,0.0
+597,international conference on computational science and its applications,0.0
+598,Journal of Approximation Theory,0.0
+599,The American Economic Review,0.0
+600,Operations Research,0.0
+601,workshop on graph-theoretic concepts in computer science,0.0
+602,system level interconnect prediction,0.0
+603,Phonetica,0.0
+604,international conference on pattern recognition,0.0
+605,Immunotechnology,0.0
