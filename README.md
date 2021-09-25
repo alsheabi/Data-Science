@@ -5,6 +5,7 @@ Citation count is considered as a good measure in evaluating scientific
 papers, in this paper, we are Analysis the estimation of citation count using three different machine learning models which are Linear Regression, Classification and Regression Tree, and Support Vector Regression. Using [Aminer](http://aminer.org/lab-datasets/citation/dblp.v10.zip) v10 as a dataset which contains eight features, among the latter, we used only four, that are, author, venue, reference and published year. And new features
 as Average Cumulative Author Citation Count, Venue rank, Venue’s h5-index, Average citation count for the venue and paper age were created. We filtered the dataset in two different ways. For each case, the dataset was evaluated using the three machine learning models mentioned above and their prediction analysis in terms of R square and MAE are compared.
 
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries before running the .ipynb file.
 This project is executed on python v3.6.4
 
